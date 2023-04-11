@@ -303,7 +303,7 @@ namespace UnityEngine.XR.ARFoundation.Samples
             var participantDescriptors = new List<XRParticipantSubsystemDescriptor>();
             SubsystemManager.GetSubsystemDescriptors(participantDescriptors);
 
-            var depthDescriptors = new List<XRDepthSubsystemDescriptor>();
+            var depthDescriptors = new List<XRPointCloudSubsystemDescriptor>();
             SubsystemManager.GetSubsystemDescriptors(depthDescriptors);
 
             var occlusionDescriptors = new List<XROcclusionSubsystemDescriptor>();
