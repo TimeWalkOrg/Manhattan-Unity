@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.kyrylokuzyk.arfoundationremote": "file:../Assets/Plugins/ARFoundationRemoteInstaller/com.kyrylokuzyk.arfoundationremote.tgz",
-    "com.normalvr.normcore": "2.3.2",
+    "com.normalvr.normcore": "2.4.1",
     "com.unity.ai.navigation": "1.0.0-exp.4",
     "com.unity.ide.rider": "3.0.15",
     "com.unity.ide.visualstudio": "2.0.16",
