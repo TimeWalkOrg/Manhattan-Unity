@@ -1,0 +1,373 @@
+fileFormatVersion: 2
+guid: 5c7650997ad4841f392662e0515de824
+SketchUpImporter:
+  serializedVersion: 21202
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brooklyn Bridge_Aerial1
+    second: {fileID: 2800000, guid: 12436ff130d809742a7cb9c079ae57a2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brooklyn Bridge_Aerial2
+    second: {fileID: 2800000, guid: 8dd8e2a69abee3240a5380611099b2ba, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brooklyn Bridge_Arch Top_tint0x8D7D6BFF
+    second: {fileID: 2800000, guid: 0f651a9d4a20a4643ac5ff5ead308e03, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brooklyn Bridge_Arch_tint0xB1A08EFF
+    second: {fileID: 2800000, guid: 1af07e5cbc84a0e4dbc1624affc047c1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brooklyn Bridge_Base1
+    second: {fileID: 2800000, guid: 7e6e844c8d5463e478d88bb9734dbd88, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brooklyn Bridge_Base1 copy
+    second: {fileID: 2800000, guid: 91e870631ac4f434fb98dda2c052760f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brooklyn Bridge_BaseEntrance
+    second: {fileID: 2800000, guid: 922ca162acc4eb445b5a70bde8432ca9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brooklyn Bridge_Cable
+    second: {fileID: 2800000, guid: 36c38b866e4d3bf47b53714984309446, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brooklyn Bridge_Cable1
+    second: {fileID: 2800000, guid: 295dc0f6ff6778345b608b483e22542f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brooklyn Bridge_CentrePillarBase_tint0x9E8F7EFF
+    second: {fileID: 2800000, guid: 9a8a1158fdd17054781dcb2804d3f7a7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brooklyn Bridge_Inner Railing1
+    second: {fileID: 2800000, guid: 310d75c0290ecd24291d5456c0c99033, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brooklyn Bridge_LampPost
+    second: {fileID: 2800000, guid: 02b1d39a59f9fde4eb5a98becc28a213, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brooklyn Bridge_Outer Railing
+    second: {fileID: 2800000, guid: bd15cf7b0f323084a8dc5fbc7d4b9560, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brooklyn Bridge_PillarGround
+    second: {fileID: 2800000, guid: fc947f4fed098444dbdf148f88144601, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brooklyn Bridge_Pillar_tint0x978169FF
+    second: {fileID: 2800000, guid: 34e50c4b4c910c449a4d53f40af19251, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brooklyn Bridge_Railing
+    second: {fileID: 2800000, guid: 4451dfa307ff9a84d87b96e7b5abf37a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brooklyn Bridge_Stone_tint0x978169FF
+    second: {fileID: 2800000, guid: bef30aee7e9e767489dfec94b859d12d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brooklyn Bridge_Top_tint0xE6E3DFFF
+    second: {fileID: 2800000, guid: 7af80edfb90f44345ab614ff451d1491, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brooklyn Bridge_WalkwayRailingTop
+    second: {fileID: 2800000, guid: 892cb1fcaf2819d4d9ecd604388c0e4a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brooklyn Bridge_WhiteStoneWall1
+    second: {fileID: 2800000, guid: c434f7ffa4cd0a44a907bc390d95f3fe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_Zack Mertz_Desktop_Brooklyn Bridge_Base1
+    second: {fileID: 2800000, guid: d7e32e6314cbf47edb31d3c0f3b05641, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_Zack Mertz_Desktop_Brooklyn Bridge_WhiteStoneWall1
+    second: {fileID: 2800000, guid: c634e0410c36442e18c07d61b7d9f3eb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_Zack Mertz_Desktop_TEMP_brook road2
+    second: {fileID: 2800000, guid: ec174f1511bd445d89fd01255992469a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_Zack Mertz_Desktop_TEMP_road-brook1
+    second: {fileID: 2800000, guid: c610b987878014dfc9e88cb01194216c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_Zack Mertz_Desktop_brook road
+    second: {fileID: 2800000, guid: bbc19f44bb9b04458a7d2037d53f4d98, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_Zack Mertz_Desktop_stone
+    second: {fileID: 2800000, guid: 48ca57cc439f448729dd73f6ae4deb7c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_15 Mar_Brooklyn Bridge_Textures_Brooklyn
+        Bridge_Cable
+    second: {fileID: 2800000, guid: d3dd2cb0e434c49d687d52422ee25315, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_19 Mar_Brooklyn Bridge_Textures_Brooklyn
+        Bridge_Aerial2
+    second: {fileID: 2800000, guid: dbf065f80d18241518eb9af0d29355d3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_19 Mar_Brooklyn Bridge_Textures_Brooklyn
+        Bridge_Arch Top_tint0x8D7D6BFF
+    second: {fileID: 2800000, guid: d5de11a3547ce488e8de4c8bbb2e8d17, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_19 Mar_Brooklyn Bridge_Textures_Brooklyn
+        Bridge_CentrePillarBase_tint0x9E8F7EFF
+    second: {fileID: 2800000, guid: 819071d314c1345b69e0684012e92331, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_19 Mar_Brooklyn Bridge_Textures_Brooklyn
+        Bridge_LampPost
+    second: {fileID: 2800000, guid: 8e13ade489def4aabb17452dea37bf0e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_19 Mar_Brooklyn Bridge_Textures_Brooklyn
+        Bridge_Outer Railing
+    second: {fileID: 2800000, guid: 44334643e46d5453991932a6bd929d63, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_19 Mar_Brooklyn Bridge_Textures_Brooklyn
+        Bridge_Pillar_tint0x978169FF
+    second: {fileID: 2800000, guid: 2d9565a050f2f44d5b772aa672a0613e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_19 Mar_Brooklyn Bridge_Textures_Brooklyn
+        Bridge_Stone_tint0x978169FF
+    second: {fileID: 2800000, guid: 40bcd709163d74dcfb56f53e2cd19f03, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_21 Mar_Brooklyn Bridge_Textures_Brooklyn
+        Bridge_Arch_tint0xB1A08EFF
+    second: {fileID: 2800000, guid: a90a3e60259db48f098005e7a89f70fd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_28 Mar_Textures_Brooklyn Bridge_Aerial1
+    second: {fileID: 2800000, guid: 7fb044037465f41a9ad8533665d8618b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_28 Mar_Textures_Brooklyn Bridge_BaseEntrance
+    second: {fileID: 2800000, guid: f0cc97c64330c49b68aebdeaaabbdeee, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_28 Mar_Textures_Brooklyn Bridge_Cable1
+    second: {fileID: 2800000, guid: 4a755394fdce64beda53c87a50ffe5b4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_28 Mar_Textures_Brooklyn Bridge_Inner
+        Railing1
+    second: {fileID: 2800000, guid: 69ebe63e2994f4e9d9f438b9ce4f9604, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_28 Mar_Textures_Brooklyn Bridge_PillarGround
+    second: {fileID: 2800000, guid: 42d555a5df74e4b599266019b35bd97d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_28 Mar_Textures_Brooklyn Bridge_Railing
+    second: {fileID: 2800000, guid: 9c51f316de187429a99ae795c2bc1c2a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_28 Mar_Textures_Brooklyn Bridge_Top_tint0xE6E3DFFF
+    second: {fileID: 2800000, guid: 9b01cf612bff647aa97b46db27fc2a3c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_29 Mar NewYork_Brooklyn Bridge_Textures_Brooklyn
+        Bridge_WalkwayRailingTop
+    second: {fileID: 2800000, guid: eb12935cf26a447088065a95ab55d3e4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_9 Mar NewYork CityHall_Textures_NYCityHall_Flag
+    second: {fileID: 2800000, guid: edbaba909afc24f60b085672c9bb5f9a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_Brooklyn Bridge_Base1 copy
+    second: {fileID: 2800000, guid: bf3c928e6dc8e47c6b7af75b8daf6c07, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: NYCityHall_Flag
+    second: {fileID: 2800000, guid: d6fcfc16ad142504abf9ad8421bec7d3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: brook road
+    second: {fileID: 2800000, guid: 86d1bb5c4f231b04e9ac9dfd50744325, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: brook road2
+    second: {fileID: 2800000, guid: 4b4953d94fe4acf4b9dc2b846a8f9d72, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: road-brook1
+    second: {fileID: 2800000, guid: c0a2371e715861d40bacc81c5cb0a304, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stone
+    second: {fileID: 2800000, guid: 5b327862466b4384ba9e1aa92b0b66fa, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 0
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.0254
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 0
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  generateBackFace: 1
+  mergeCoplanarFaces: 0
+  selectedNodes: 0000000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f01000030010000310100003201000033010000
+  assetHash:
+    serializedVersion: 2
+    Hash: c0175bc0a4752ecddd387f041ae89961
+  fileUnit: 0

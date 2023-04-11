@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: 9feb1d193ea91194981b60ed2ac1ef0b
+SketchUpImporter:
+  serializedVersion: 21202
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Google Earth Snapshot
+    second: {fileID: 2800000, guid: 42f4edba61f642242ba01c84bd46eff2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MOMA1
+    second: {fileID: 2800000, guid: 88acf3adec6a8bb478fc32d75e87786f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MOMA10
+    second: {fileID: 2800000, guid: 632de1b7af7c09c48bfcd7e2eeca7216, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MOMA11
+    second: {fileID: 2800000, guid: b754d14c2063e104dab9f76392001f87, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MOMA12
+    second: {fileID: 2800000, guid: 47e55260deb639d498c1400615d5036d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MOMA13
+    second: {fileID: 2800000, guid: 34b26737f0597ff42895da3af6c0032b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MOMA13_tint0xAEB5B6FF
+    second: {fileID: 2800000, guid: a063dcdfd48e999418a53f0000344207, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MOMA14
+    second: {fileID: 2800000, guid: a4a72754b10140b49aca508ec2bcf625, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MOMA14_tint0xB2B2ACFF
+    second: {fileID: 2800000, guid: 19d2f089833b85b4a981c089d394ef04, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MOMA16
+    second: {fileID: 2800000, guid: 2d5dc2c4838857d4391d050c970aac2d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MOMA17
+    second: {fileID: 2800000, guid: 8330a2ddab9566b4bb652873c8c42a23, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MOMA18
+    second: {fileID: 2800000, guid: 772493b92e6d45f4aa36ab872f271a88, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MOMA19
+    second: {fileID: 2800000, guid: 090d497ad4f8fba4b8555532c3bdb425, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MOMA2
+    second: {fileID: 2800000, guid: 8387aef7b26282c48aac2111671f1ba7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MOMA20
+    second: {fileID: 2800000, guid: 34e9111120dca8241bdab48ee6c4cb3d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MOMA21_tint0xA1A2A2FF
+    second: {fileID: 2800000, guid: b9a37318225e4e047a78350b2d37cb3b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MOMA23
+    second: {fileID: 2800000, guid: 53d0e61c5a3a27b4cad643b2ed74a3f9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MOMA24
+    second: {fileID: 2800000, guid: c9e99c0e8acce974cba615f866512373, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MOMA25
+    second: {fileID: 2800000, guid: af838d5b90487734199a016b8b0b3cac, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MOMA26
+    second: {fileID: 2800000, guid: 4afae7df20dc0e142b0c22b99f38d7d2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MOMA27
+    second: {fileID: 2800000, guid: 224726c200cfadf4ba94d8f083b99d32, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MOMA28
+    second: {fileID: 2800000, guid: 67e02fb6d0886784ab94abcd37f1efa8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MOMA29
+    second: {fileID: 2800000, guid: 5921ea6fc1d33e64691c4747c8863f44, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MOMA3
+    second: {fileID: 2800000, guid: 642e20c36ce21e24b90c17f2e12e25fd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MOMA30
+    second: {fileID: 2800000, guid: 78667ab78ffd0c5499e676ac7172f1ba, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MOMA31
+    second: {fileID: 2800000, guid: 25fc97f4ce5fcc249ac288681e93931c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MOMA32
+    second: {fileID: 2800000, guid: 68353143beb692c4abe54199010f0fea, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MOMA33
+    second: {fileID: 2800000, guid: 92ad11e8bba6e0143a0e2716f57651c2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MOMA34
+    second: {fileID: 2800000, guid: ceed454a86c82734a8d57fbdfd670aee, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MOMA35
+    second: {fileID: 2800000, guid: 0968b1e9807dc25449836dcf0980b9f9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MOMA36
+    second: {fileID: 2800000, guid: 0dfdc23798065b743b7c2aada42f36c0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MOMA37
+    second: {fileID: 2800000, guid: 353892548d1450b489a1a603a70051c5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MOMA38
+    second: {fileID: 2800000, guid: cffc3bbe10aafa545afaa9c97f6da44d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MOMA39
+    second: {fileID: 2800000, guid: 09c00cd333d48cd49896af4656a2d8ef, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MOMA4
+    second: {fileID: 2800000, guid: 3f51b7525aaf2c149b256ef31c4fccb0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MOMA40
+    second: {fileID: 2800000, guid: 48a43c3c6a4cbc94399e8ed2dbd23851, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MOMA42
+    second: {fileID: 2800000, guid: 1698b66b6046c0e47b9855e3c2a859e2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MOMA43
+    second: {fileID: 2800000, guid: df00578126d153b4489ce506ef898aa3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MOMA44
+    second: {fileID: 2800000, guid: 1d6190ee170d5ff4bb7053b32cf9ab60, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MOMA5
+    second: {fileID: 2800000, guid: 88cc30d8df99c964891b15ee7761d821, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MOMA50
+    second: {fileID: 2800000, guid: 68f172d6e2254324bb67555e508e4e39, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MOMA51
+    second: {fileID: 2800000, guid: 517bc5e226b314840892d1e4beebdf74, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MOMA52
+    second: {fileID: 2800000, guid: 4ae6613ac69fe894e99e878df10dda25, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MOMA53
+    second: {fileID: 2800000, guid: 555e9cf8b41337749a35af82e2fa4795, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MOMA54
+    second: {fileID: 2800000, guid: 2a527fa777f602e41bf2ec157e10ad39, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MOMA55_tint0x9F9E9CFF
+    second: {fileID: 2800000, guid: 20eb21987aa48df409a2aa83ace27e2d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MOMA6
+    second: {fileID: 2800000, guid: a12d113b30ea92d48b11bace7c66d88a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MOMA60
+    second: {fileID: 2800000, guid: 30c315f6f7ad4df4785ba7a5aca51cbb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MOMA7
+    second: {fileID: 2800000, guid: 242c44f1175f294478b594c5b460d5f2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MOMA8
+    second: {fileID: 2800000, guid: 5dff8f18b1346e94fb3b5cae70718c37, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MOMAtop
+    second: {fileID: 2800000, guid: bd42ef9a2605d484c89930a9bd18ef45, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MOMAtop1
+    second: {fileID: 2800000, guid: 67727aeedda86d146962ab5c51786b73, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Moma70
+    second: {fileID: 2800000, guid: 7888bb1bd5e97b84bbe931c3cb51637d, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 0
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.0254
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 0
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  generateBackFace: 1
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000200000005000000060000000700000008000000090000000a0000000b0000000c000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 75c1f65b14095920d105aa11bd75823e
+  fileUnit: 0

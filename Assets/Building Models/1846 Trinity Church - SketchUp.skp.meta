@@ -1,0 +1,671 @@
+fileFormatVersion: 2
+guid: 7354d012cf86846f8bf10fa3f6a88e35
+SketchUpImporter:
+  serializedVersion: 21202
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: +mark
+    second: {fileID: 2800000, guid: 00e59789c61811c408cb753fbd49bac2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: --
+    second: {fileID: 2800000, guid: 465b8e89999501149a1006bce7410315, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__DOCUME~1_ZACKME~1_LOCALS~1_Temp_GEI11
+    second: {fileID: 2800000, guid: 082df98a0a9924a2d99258adad316cba, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_Zack Mertz_Desktop_cross
+    second: {fileID: 2800000, guid: dfb74e090d6634e408ab7a7badefdc88, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_Zack Mertz_Desktop_roof_trin
+    second: {fileID: 2800000, guid: 5ba3fa312a5064d50950e15966841e8c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_--
+    second: {fileID: 2800000, guid: e0edf5b3ab3914443a001c34cdd1677b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_Recent_Arieal
+    second: {fileID: 2800000, guid: 6eb345142f78845eeac440beccb294c6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_Trinity_Trinity Church_vikramT_Compress_Main_back
+    second: {fileID: 2800000, guid: 165745795d50c4f07aecd01cd1552f6e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_Trinity_Trinity Church_vikramT_Compress_New
+        Folder_back_windo_tint0x87817DFF
+    second: {fileID: 2800000, guid: 4506c9a224e8b41dfabd9e954e18de0e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_Trinity_Trinity Church_vikramT_Compress_New
+        Folder_backside_without_pole_tint0x7A716CFF
+    second: {fileID: 2800000, guid: ea9e64c286a7f4b9180f3d40e1c9f89d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_Trinity_Trinity Church_vikramT_Compress_New
+        Folder_brick_bick_tint0x978178FF
+    second: {fileID: 2800000, guid: b489df657b9844536bd8aaf55fcc2728, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_Trinity_Trinity Church_vikramT_Compress_New
+        Folder_brick_tint0xA18B7AFF
+    second: {fileID: 2800000, guid: 5d18317b9477b42a89226d4cd52218e3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_Trinity_Trinity Church_vikramT_Compress_New
+        Folder_cross
+    second: {fileID: 2800000, guid: a1e43489ee3ad454bb3f0e477cd5d2b6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_Trinity_Trinity Church_vikramT_Compress_New
+        Folder_cross_pole_tint0x72615AFF
+    second: {fileID: 2800000, guid: ab9ad719fe6d04ac298673169c790687, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_Trinity_Trinity Church_vikramT_Compress_New
+        Folder_down_pillar_tint0x9C8B84FF
+    second: {fileID: 2800000, guid: b441f3f12eae64894ab0162c67f90150, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_Trinity_Trinity Church_vikramT_Compress_New
+        Folder_inside_windo_tint0x87746FFF
+    second: {fileID: 2800000, guid: 6693fd0bc7ad04f71a836d1860c0e305, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_Trinity_Trinity Church_vikramT_Compress_New
+        Folder_main_pillar_sub
+    second: {fileID: 2800000, guid: 0a0a29952fdb84343961e083631007ca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_Trinity_Trinity Church_vikramT_Compress_New
+        Folder_side_pole_backtop
+    second: {fileID: 2800000, guid: 8e1cad3a9bafd4a06b4e781dfbca3070, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_Trinity_Trinity Church_vikramT_Compress_New
+        Folder_side_pole_backtop_1
+    second: {fileID: 2800000, guid: 8ec00c29ce5a6412da617c6ae708d3c7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_Trinity_Trinity Church_vikramT_Compress_New
+        Folder_side_pole_tint0x86716AFF
+    second: {fileID: 2800000, guid: e15226b9c439945e08371234452ac263, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_Trinity_Trinity Church_vikramT_Compress_New
+        Folder_side_pole_with_windo_tint0x836E68FF
+    second: {fileID: 2800000, guid: 2f4b5ac3a3e1d43c9b5cd2f12356f3ca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_Trinity_Trinity Church_vikramT_Compress_New
+        Folder_star_tint0x936F5FFF
+    second: {fileID: 2800000, guid: 1ec28c97199044a8ca066adedf656462, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_Trinity_Trinity Church_vikramT_Compress_New
+        Folder_toper_tint0x846D5AFF
+    second: {fileID: 2800000, guid: a1f3c918173ef42f1a3dc34723e39125, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_Trinity_Trinity Church_vikramT_Compress_Trinity
+        Church_6_1windo_nopip
+    second: {fileID: 2800000, guid: 7f355c19bd8c347e889a89d97f85fdf3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_Trinity_Trinity Church_vikramT_Compress_Trinity
+        Church_Corner
+    second: {fileID: 2800000, guid: e58eca174a0f84904a0f5bcb71cb7c79, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_Trinity_Trinity Church_vikramT_Compress_Trinity
+        Church_door_big_tint0x8B7E76FF
+    second: {fileID: 2800000, guid: 11e70f8671f204894937068e683eb12b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_Trinity_Trinity Church_vikramT_Compress_Trinity
+        Church_pole1 copy
+    second: {fileID: 2800000, guid: a71b0f91996e749ea954cfd7dcabc453, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_Trinity_Trinity Church_vikramT_Compress_Trinity
+        Church_pole_tint0xAB9E95FF
+    second: {fileID: 2800000, guid: 3cc50dbbe39484a5e8193961b9dc180e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_Trinity_Trinity Church_vikramT_Compress_Trinity
+        Church_tower_r
+    second: {fileID: 2800000, guid: 33a754b2ef1fd4bb49a1715d75b748f4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_Trinity_Trinity Church_vikramT_Compress_back_Back_tint0x9B938EFF
+    second: {fileID: 2800000, guid: c48ecc4e5c9bf4b899d80f7258be3e0b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_Trinity_Trinity Church_vikramT_Compress_back_side
+    second: {fileID: 2800000, guid: 03709ee0b917d478d966a75c4ba1bfa8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_Trinity_Trinity Church_vikramT_Compress_cross_pole_tint0x7B756CFF
+    second: {fileID: 2800000, guid: 0915d2fea02574926a5af53661e78049, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_Trinity_Trinity Church_vikramT_Compress_main
+        tower_tint0x70665FFF
+    second: {fileID: 2800000, guid: 97caa77b70dca4820bc63f9ab06270db, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_Trinity_Trinity Church_vikramT_Compress_maintower_top_side
+    second: {fileID: 2800000, guid: 0eb0df56d854e473189fc30e0b249dfe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_Trinity_Trinity Church_vikramT_Compress_smal_windo
+    second: {fileID: 2800000, guid: 975d9cfdf0ff94933afd4e7b7ec92ae2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_Trinity_Trinity Church_vikramT_Compress_smal_windo_2
+    second: {fileID: 2800000, guid: 8243b4d90c1854a8b955c23b43fb3fab, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_Trinity_Trinity Church_vikramT_Compress_top_png
+    second: {fileID: 2800000, guid: 9fc38c27db6b24a9780a3f9288a63e6b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_Trinity_Trinity Church_vikramT_Compress_top_pole
+    second: {fileID: 2800000, guid: 370c01a6d97124b03a0db4840b0f4ba5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_Trinity_Trinity Church_vikramT_Compress_trinity_top
+    second: {fileID: 2800000, guid: a6ada41e8dfbe4c65ada0018f7d2ca56, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_Trinity_Trinity Church_vikramT_Textures_+mark
+    second: {fileID: 2800000, guid: 0b63ab3fba2184e50bb40b2230ad536e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_Trinity_Trinity Church_vikramT_Textures_back_bricks
+        copy_tint0xA69A93FF
+    second: {fileID: 2800000, guid: 2aa25fb51a62243f4855cd567c54b031, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_Trinity_Trinity Church_vikramT_Textures_fencing
+    second: {fileID: 2800000, guid: 7986738cb0d0f4612a0ffeb8e275b71f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_Trinity_Trinity Church_vikramT_Textures_pot
+    second: {fileID: 2800000, guid: a7f664d67d7d64705bc5501d9a3542eb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_Trinity_Trinity Church_vikramT_Textures_side_cone
+    second: {fileID: 2800000, guid: 972a477f0e954449eb62bc7192186b76, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_Trinity_Trinity Church_vikramT_Textures_side_tri
+    second: {fileID: 2800000, guid: 3ff745f2e38474faa9756fcc8a3db2cd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_Trinity_Trinity Church_vikramT_Textures_top_design
+    second: {fileID: 2800000, guid: b47bcd909ac7348318ec062e9431067a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_Trinity_Trinity Church_vikramT_Textures_toper
+    second: {fileID: 2800000, guid: 162b17dfe221144039e5d50caa8dfcde, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_Trinity_tria
+    second: {fileID: 2800000, guid: 6815e6f539cb04020bd8390ac474411f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_Trinity_trinity_Trinity Church_entrmain
+    second: {fileID: 2800000, guid: 081e54ae7fec94c85b509e5d58155d29, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_Trinity_trinity_back__tint0x635C5BFF
+    second: {fileID: 2800000, guid: 539e37612c5d84892b0413874e07a14c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_Trinity_trinity_back_bricks
+        copy_tint0xAD998FFF
+    second: {fileID: 2800000, guid: f8e2d6059615d4032b32becbb49df473, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_Trinity_trinity_entr
+    second: {fileID: 2800000, guid: ae6c329372ce94432a6a3721b980610f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_Trinity_trinity_last
+    second: {fileID: 2800000, guid: 07c02c79e330d4ce29937db7c6fca698, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_insd
+    second: {fileID: 2800000, guid: fbd5ed3ccec22452b868e83b42e0eaaa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_recent_tower
+    second: {fileID: 2800000, guid: a97dc028b6327451fbb33ddbc5854413, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_roof_tint0xB2AAA6FF
+    second: {fileID: 2800000, guid: 0cd21f8e4ab5948e49c0a9fa90b1282d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GEI11
+    second: {fileID: 2800000, guid: 3d5fb0050829fa54790a0f5c7b986711, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Main_back
+    second: {fileID: 2800000, guid: 47a4e4735d0c4e64497c769d6847b244, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Recent_Arieal
+    second: {fileID: 2800000, guid: 70f2ec5e39f433548b038a48aab14183, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Trinity Church_6_1windo_nopip
+    second: {fileID: 2800000, guid: 26bf73883ef33684c886e8ede9cf4573, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Trinity Church_Corner
+    second: {fileID: 2800000, guid: 591ad8c980b85fa41ba521ff79d4d5a1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Trinity Church_door_big_tint0x8B7E76FF
+    second: {fileID: 2800000, guid: 4096b8a903aec184fa09e56c3e67759d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Trinity Church_entrmain
+    second: {fileID: 2800000, guid: c9925d2a8c5ea6246b347623223b0bd9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Trinity Church_pole1 copy
+    second: {fileID: 2800000, guid: 07716b1d297a9514189f166451915c55, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Trinity Church_pole_tint0xAB9E95FF
+    second: {fileID: 2800000, guid: b7dc22fd2f5a1ca429ab964e3bc1c814, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Trinity Church_tower_r
+    second: {fileID: 2800000, guid: eb16eaf7a9745884faa5919b08c6ff4c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: back_Back_tint0x9B938EFF
+    second: {fileID: 2800000, guid: c66e26d53cebdd842889330f0909f068, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: back__tint0x635C5BFF
+    second: {fileID: 2800000, guid: 9c70a1e0121580d419ca5326c2e44206, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: back_bricks copy_tint0xA69A93FF
+    second: {fileID: 2800000, guid: 1eb7236e75479284eb7d2a5441b594c1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: back_bricks copy_tint0xAD998FFF
+    second: {fileID: 2800000, guid: 69db82d9209360747be6ab2656c04b0a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: back_side
+    second: {fileID: 2800000, guid: e724fad0eb2dc9c4495baf07f46ee282, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: back_windo_tint0x87817DFF
+    second: {fileID: 2800000, guid: 56d20eb980c00b44f99a9cbe834602ec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: backside_without_pole_tint0x7A716CFF
+    second: {fileID: 2800000, guid: fe208fb061ee5b6498a0a51d2f51cb39, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: brick_bick_tint0x978178FF
+    second: {fileID: 2800000, guid: 853a1f458812fa049a0562ebd6168712, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: brick_tint0xA18B7AFF
+    second: {fileID: 2800000, guid: a64f57361f339b24a8497a402ed11538, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cross
+    second: {fileID: 2800000, guid: 2378338c28c3fff429bd73de3d0bc894, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cross_pole_tint0x72615AFF
+    second: {fileID: 2800000, guid: 297f6d5b71bd4004ca4f6385325efa3d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cross_pole_tint0x7B756CFF
+    second: {fileID: 2800000, guid: 8b52512ea62cc2e49a0286b5b8a7bd96, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: down_pillar_tint0x9C8B84FF
+    second: {fileID: 2800000, guid: 6704fc5dd98a85f43b27d75623d7c954, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fencing
+    second: {fileID: 2800000, guid: ed3d806c16fe84a499863c6bfcd40333, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: insd
+    second: {fileID: 2800000, guid: a92b369c3d167c945b8574c8e0896e40, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: inside_windo_tint0x87746FFF
+    second: {fileID: 2800000, guid: 2aad13ac70627a146ad5fbdd54d6cf32, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: last
+    second: {fileID: 2800000, guid: fccc63c5df2cb754fa16fe0030e9d9eb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: main tower_tint0x70665FFF
+    second: {fileID: 2800000, guid: 1f93151fe48db624aab65a5e120df60c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: main_pillar_sub
+    second: {fileID: 2800000, guid: 0615dc26a2e29b441bcf073bbf4fae21, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: maintower_top_side
+    second: {fileID: 2800000, guid: 65b752087526b2a48bd90ec00b0a61ac, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pot
+    second: {fileID: 2800000, guid: 4fcbce5bbec88084f91332f2bcecd7b0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: recent_tower
+    second: {fileID: 2800000, guid: 3623b4c223dbccb44baf0c3025c5db20, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: roof_tint0xB2AAA6FF
+    second: {fileID: 2800000, guid: 336b219e9ed3169409bab33226c61e4b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: roof_trin
+    second: {fileID: 2800000, guid: 042c91cbc749f264da22827195fb9216, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: side_cone
+    second: {fileID: 2800000, guid: fc5621c815c2f3c499d23cc2d574578a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: side_pole_backtop
+    second: {fileID: 2800000, guid: 4ed4121d64c7a0749b5777497e56fd50, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: side_pole_backtop_1
+    second: {fileID: 2800000, guid: 06fecf8f20871f244b4b07fbfb44d4ae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: side_pole_tint0x86716AFF
+    second: {fileID: 2800000, guid: 191e015ee7e36a44ab164894a94f9f4b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: side_pole_with_windo_tint0x836E68FF
+    second: {fileID: 2800000, guid: 292a074a5b7efa24ba9b1c10bc0491e5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: side_tri
+    second: {fileID: 2800000, guid: e9e83cd086b6c534d953388f8614e097, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: smal_windo
+    second: {fileID: 2800000, guid: 2e870bb4b3eddc246a66c4f7b020684d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: smal_windo_2
+    second: {fileID: 2800000, guid: 2e8e587d325c32643944419bdae04c43, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: star_tint0x936F5FFF
+    second: {fileID: 2800000, guid: 19258a2375bff044da5810c2e42a19ca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: top_design
+    second: {fileID: 2800000, guid: a369ac24b14ed8d4fbd4feff573fb54c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: top_png
+    second: {fileID: 2800000, guid: 7408092f382a8f04aac748aea636c16b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: top_pole
+    second: {fileID: 2800000, guid: 651b9d8fbcde4fa4ea439e97d9668ea5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: toper
+    second: {fileID: 2800000, guid: fe8aa37b60789de41a887a869a0050f3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: toper_tint0x846D5AFF
+    second: {fileID: 2800000, guid: 001f7f1dfa20df244ac48de751b29f33, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tria
+    second: {fileID: 2800000, guid: 4dfd811e81b7cc747bf2d566b6e7f0b0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: trinity_entr
+    second: {fileID: 2800000, guid: f3e79690520483a46bffa33677e725ee, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: trinity_top
+    second: {fileID: 2800000, guid: d59c167c97a143d4cbf0950b8344cd96, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 0
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.0254
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 0
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  generateBackFace: 1
+  mergeCoplanarFaces: 0
+  selectedNodes: 0000000001000000020000000300000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f010000600100006101000062010000630100006401000065010000660100006701000068010000690100006a0100006b0100006c0100006d0100006e0100006f010000700100007101000072010000730100007401000075010000760100007701000078010000790100007a0100007b0100007c0100007d0100007e0100007f010000800100008101000082010000830100008401000085010000860100008701000088010000890100008a0100008b0100008c0100008d0100008e0100008f010000900100009101000092010000930100009401000095010000960100009701000098010000990100009a0100009b0100009c0100009d0100009e0100009f010000a0010000a1010000a2010000a3010000a4010000a5010000a6010000a7010000a8010000a9010000aa010000ab010000ac010000ad010000ae010000af010000b0010000b1010000b2010000b3010000b4010000b5010000b6010000b7010000b8010000b9010000ba010000bb010000bc010000bd010000be010000bf010000c0010000c1010000c2010000c3010000c4010000c5010000c6010000c7010000c8010000c9010000ca010000cb010000cc010000cd010000ce010000cf010000d0010000d1010000d2010000d3010000d4010000d5010000d6010000d7010000d8010000d9010000da010000db010000dc010000dd010000de010000df010000e0010000e1010000e2010000e3010000e4010000e5010000e6010000e7010000e8010000e9010000ea010000eb010000ec010000ed010000ee010000ef010000f0010000f1010000f2010000f3010000f4010000f5010000f6010000f7010000f8010000f9010000fa010000fb010000fc010000fd010000fe010000ff010000000200000102000002020000030200000402000005020000060200000702000008020000090200000a0200000b0200000c0200000d0200000e0200000f020000100200001102000012020000130200001402000015020000160200001702000018020000190200001a0200001b0200001c0200001d0200001e0200001f020000200200002102000022020000230200002402000025020000260200002702000028020000290200002a0200002b0200002c0200002d0200002e0200002f020000300200003102000032020000330200003402000035020000360200003702000038020000390200003a0200003b0200003c0200003d0200003e0200003f020000400200004102000042020000430200004402000045020000460200004702000048020000490200004a0200004b0200004c0200004d0200004e0200004f020000500200005102000052020000530200005402000055020000560200005702000058020000590200005a0200005b0200005c0200005d0200005e0200005f020000600200006102000062020000630200006402000065020000660200006702000068020000690200006a0200006b0200006c0200006d0200006e0200006f020000700200007102000072020000730200007402000075020000760200007702000078020000790200007a0200007b0200007c0200007d0200007e0200007f020000800200008102000082020000830200008402000085020000860200008702000088020000890200008a0200008b0200008c0200008d0200008e0200008f020000900200009102000092020000930200009402000095020000960200009702000098020000990200009a0200009b0200009c0200009d0200009e0200009f020000a0020000a1020000a2020000a3020000a4020000a5020000a6020000a7020000a8020000a9020000aa020000ab020000ac020000ad020000ae020000af020000b0020000b1020000b2020000b3020000b4020000b5020000b6020000b7020000b8020000b9020000ba020000bb020000bc020000bd020000be020000bf020000c0020000c1020000c2020000c3020000c4020000c5020000c6020000c7020000c8020000c9020000ca020000cb020000cc020000cd020000ce020000cf020000d0020000d1020000d2020000d3020000d4020000d5020000d6020000d7020000d8020000d9020000da020000db020000dc020000dd020000de020000df020000e0020000e1020000e2020000e3020000e4020000e5020000e6020000e7020000e8020000e9020000ea020000eb020000ec020000ed020000ee020000ef020000f0020000f1020000f2020000f3020000f4020000f5020000f6020000f7020000f8020000f9020000fa020000fb020000fc020000fd020000fe020000ff020000000300000103000002030000030300000403000005030000060300000703000008030000090300000a0300000b0300000c0300000d0300000e0300000f030000100300001103000012030000130300001403000015030000160300001703000018030000190300001a0300001b0300001c0300001d0300001e0300001f030000200300002103000022030000230300002403000025030000260300002703000028030000290300002a0300002b0300002c0300002d0300002e0300002f030000300300003103000032030000330300003403000035030000360300003703000038030000390300003a0300003b0300003c0300003d0300003e0300003f030000400300004103000042030000430300004403000045030000460300004703000048030000490300004a0300004b0300004c0300004d0300004e0300004f030000500300005103000052030000530300005403000055030000560300005703000058030000590300005a0300005b0300005c0300005d0300005e0300005f030000600300006103000062030000630300006403000065030000660300006703000068030000690300006a0300006b0300006c0300006d0300006e0300006f030000700300007103000072030000730300007403000075030000760300007703000078030000790300007a0300007b0300007c0300007d0300007e0300007f030000800300008103000082030000830300008403000085030000860300008703000088030000890300008a0300008b0300008c0300008d0300008e0300008f030000900300009103000092030000930300009403000095030000960300009703000098030000990300009a0300009b0300009c0300009d0300009e0300009f030000a0030000a1030000a2030000a3030000a4030000a5030000a6030000a7030000a8030000a9030000aa030000ab030000ac030000ad030000ae030000af030000b0030000b1030000b2030000b3030000b4030000b5030000b6030000b7030000b8030000b9030000ba030000bb030000bc030000bd030000be030000bf030000c0030000c1030000c2030000c3030000c4030000c5030000c6030000c7030000c8030000c9030000ca030000cb030000cc030000cd030000ce030000cf030000d0030000d1030000d2030000d3030000d4030000d5030000d6030000d7030000d8030000d9030000da030000db030000dc030000dd030000de030000df030000e0030000e1030000e2030000e3030000e4030000e5030000e6030000e7030000e8030000e9030000ea030000eb030000ec030000ed030000ee030000ef030000f0030000f1030000f2030000f3030000f4030000f5030000f6030000f7030000f8030000f9030000fa030000fb030000fc030000fd030000fe030000ff030000000400000104000002040000030400000404000005040000060400000704000008040000090400000a0400000b0400000c0400000d0400000e0400000f040000100400001104000012040000130400001404000015040000160400001704000018040000190400001a0400001b0400001c0400001d0400001e0400001f040000200400002104000022040000230400002404000025040000260400002704000028040000290400002a0400002b0400002c0400002d0400002e0400002f040000300400003104000032040000330400003404000035040000360400003704000038040000390400003a0400003b0400003c0400003d0400003e0400003f040000400400004104000042040000430400004404000045040000460400004704000048040000490400004a0400004b0400004c0400004d0400004e0400004f040000500400005104000052040000530400005404000055040000560400005704000058040000590400005a0400005b0400005c0400005d0400005e0400005f040000600400006104000062040000630400006404000065040000660400006704000068040000690400006a0400006b0400006c0400006d0400006e0400006f040000700400007104000072040000730400007404000075040000760400007704000078040000790400007a0400007b0400007c0400007d0400007e0400007f040000800400008104000082040000830400008404000085040000860400008704000088040000890400008a0400008b0400008c0400008d0400008e0400008f040000900400009104000092040000930400009404000095040000960400009704000098040000990400009a0400009b0400009c0400009d0400009e0400009f040000a0040000a1040000a2040000a3040000a4040000a5040000a6040000a7040000a8040000a9040000aa040000ab040000ac040000ad040000ae040000af040000b0040000b1040000b2040000b3040000b4040000b5040000b6040000b7040000b8040000b9040000ba040000bb040000bc040000
+  assetHash:
+    serializedVersion: 2
+    Hash: f4ac08570340c7e14deb84eae2238331
+  fileUnit: 0

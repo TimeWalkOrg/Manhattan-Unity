@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6270ef8dd86f1487ab0484df8e4de7cb, type: 3}
+  m_Name: SessionRecordings
+  m_EditorClassIdentifier: 
+  playbackRecordedSession: 0
+  respectTimeScale: 1
+  debug: 0
+  logWarnings: 0
+  timeScale: 1
+  targetFps: -2
+  sceneToRecordAssociations:
+  - name: AnchorsExample
+    scene: {fileID: 102900000, guid: 63872df261f1048048a3b02d6bf96f5f, type: 3}
+    records:
+    - {fileID: 11400000, guid: adf6c12613b4d4316a59d13ce93bb9aa, type: 2}
+    - {fileID: 11400000, guid: b972062bbe4e446c984d9a715cf2ce54, type: 2}
+  - name: CpuImagesExample
+    scene: {fileID: 102900000, guid: 5d9efc1489e0e47679866a79481fbf39, type: 3}
+    records:
+    - {fileID: 11400000, guid: 9f33d3dff64bf4e8081517b5820ea317, type: 2}
+    - {fileID: 11400000, guid: a5242e8d05b8a4aa38a4361c563cdee7, type: 2}
+  - name: EnvironmentOcclusionExample
+    scene: {fileID: 102900000, guid: 0b132891b0a4d40198d543dd2049da44, type: 3}
+    records:
+    - {fileID: 11400000, guid: 4559c61d2ed6b459a9fca76ab3bea6ea, type: 2}
+    - {fileID: 11400000, guid: 9b6b3e9acc6ed41db83f16e59d409f6b, type: 2}
+  - name: FaceMeshExample
+    scene: {fileID: 102900000, guid: 4b4973e4887f242f8b292fb0144bf55b, type: 3}
+    records:
+    - {fileID: 11400000, guid: 146ee9668d7a6403f84be91f11d22742, type: 2}
+    - {fileID: 11400000, guid: c3335fb3807fd4dddb6f7680668da7ff, type: 2}
+  - name: ImageTrackingExample
+    scene: {fileID: 102900000, guid: 9ba082d73358c41128ef91aa3174e030, type: 3}
+    records:
+    - {fileID: 11400000, guid: 37600f4a3fd354c698f405c838e9a83d, type: 2}
+    - {fileID: 11400000, guid: 368eef89d0c9c430292b4f70ccbd01c2, type: 2}
+  - name: LocationServicesExample
+    scene: {fileID: 102900000, guid: b6497af2a17da4a7295704d7e9b6cbff, type: 3}
+    records:
+    - {fileID: 11400000, guid: dccdc6aca649446bfac54a4c65e7aa87, type: 2}
+    - {fileID: 11400000, guid: b3606c63ffb6e4f80bf6f2760be93c1f, type: 2}
+  - name: PlaneAndCloudPointsExample
+    scene: {fileID: 102900000, guid: 2a782d4427ff24838a7d2cfe1d40afe1, type: 3}
+    records:
+    - {fileID: 11400000, guid: 9f12f0b9983ee4b87bba362932ade703, type: 2}
+    - {fileID: 11400000, guid: 41fccb4c0e91c4eab8fdeb0d940cb48e, type: 2}
+  - name: SwitchBetweenPlaneAndFaceTracking
+    scene: {fileID: 102900000, guid: c86ab4a55a7664d2a8b555b58879f961, type: 3}
+    records:
+    - {fileID: 11400000, guid: a694847136cbd45c4877fa0f33585ea9, type: 2}
+    - {fileID: 11400000, guid: fd2f25f96977c4bd79aad63b733d4edf, type: 2}
+  - name: URP_SwitchBetweenPlaneAndFaceTracking
+    scene: {fileID: 102900000, guid: e580fcbd3e5a440bf9c6cc17ff72095d, type: 3}
+    records:
+    - {fileID: 11400000, guid: fd2f25f96977c4bd79aad63b733d4edf, type: 2}
+    - {fileID: 11400000, guid: a694847136cbd45c4877fa0f33585ea9, type: 2}
+  - name: ARKit ARWorldMap
+    scene: {fileID: 102900000, guid: 9c9b6e16a43724f6ab01e1487ae1259f, type: 3}
+    records:
+    - {fileID: 11400000, guid: 89b3efa5d548845f4804188fdb9c2b68, type: 2}
+  - name: ARKit FaceBlendshapesExample
+    scene: {fileID: 102900000, guid: c5287d8f05b09449ba66c42106eee9ea, type: 3}
+    records:
+    - {fileID: 11400000, guid: c3335fb3807fd4dddb6f7680668da7ff, type: 2}
+  - name: ARKit HumanSegmentationExample
+    scene: {fileID: 102900000, guid: ac40a0e9f038043f1b9de3461fd3c2ab, type: 3}
+    records:
+    - {fileID: 11400000, guid: e745a13503a414d8fadb31951f78ae05, type: 2}
+  - name: ARKit MeshClassificationExample
+    scene: {fileID: 102900000, guid: ef13f3aa1b08542879dea515214d27b8, type: 3}
+    records:
+    - {fileID: 11400000, guid: 4ba86dc26879249b5bfa940f54f56abe, type: 2}
+  - name: MeshingExample
+    scene: {fileID: 102900000, guid: 6bc0ec61d98974f10b6011e00ce64d7d, type: 3}
+    records:
+    - {fileID: 11400000, guid: 06435002b9b80462eb8dc579a08bd7e8, type: 2}
+  isRecording: 0

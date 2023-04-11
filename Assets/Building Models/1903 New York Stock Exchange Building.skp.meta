@@ -1,0 +1,607 @@
+fileFormatVersion: 2
+guid: b321dccf914a14dfba84ec91057bb4d7
+SketchUpImporter:
+  serializedVersion: 21202
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Google Earth Snapshot
+    second: {fileID: 2100000, guid: d40c00072cc460a48a716cc954397334, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nyse_1
+    second: {fileID: 2100000, guid: 0521d5cb1481e3145bbbe50b459cdbb5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nyse_10
+    second: {fileID: 2100000, guid: baf08edb48cd8154cb2fe2d370be6ec7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nyse_11
+    second: {fileID: 2100000, guid: 6b47f10a864474d49ba943bd93d2a8c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nyse_12
+    second: {fileID: 2100000, guid: a30cbe93d89178046b0960157ed72146, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nyse_13
+    second: {fileID: 2100000, guid: d5e74e7caef80594fabfa6616f0d90e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nyse_13#1
+    second: {fileID: 2100000, guid: 8aeba507c31060a428011de9e5b0dc66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nyse_13#2
+    second: {fileID: 2100000, guid: c735babe30d64dc4ba850bac13c3e343, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nyse_14
+    second: {fileID: 2100000, guid: 2d888c42aed55384ba1f78c2c9c27c17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nyse_14#1
+    second: {fileID: 2100000, guid: 859602cad3c00584cac6024118e0b362, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nyse_15
+    second: {fileID: 2100000, guid: 3566d53abc396f744b92cdf9af63d8a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nyse_16
+    second: {fileID: 2100000, guid: 7dd97e6e28214e8409cc4343d043d93f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nyse_17
+    second: {fileID: 2100000, guid: eedaa65b0499c7742bb741fdf0762d0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nyse_18
+    second: {fileID: 2100000, guid: 5ff204a715c1b8c498ebd23839804b5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nyse_19
+    second: {fileID: 2100000, guid: 9f34eba5595d7734fbf006d06d5290ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nyse_2
+    second: {fileID: 2100000, guid: c313b412aa9137640a23c3040d0e7675, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nyse_20
+    second: {fileID: 2100000, guid: 619a07decf217b0448790c609f97e1d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nyse_21
+    second: {fileID: 2100000, guid: 06b9c35ec6a796b47ad3d10be919671f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nyse_22
+    second: {fileID: 2100000, guid: 4aeb27dafb19e9e4db8de76094f8941b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nyse_23
+    second: {fileID: 2100000, guid: 80543da3893637c4f830aca6775226db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nyse_24
+    second: {fileID: 2100000, guid: de80e957e92349548b20c90b7c7d334d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nyse_25
+    second: {fileID: 2100000, guid: 5aefc591779c6a84a9d5bdf829b51e7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nyse_26
+    second: {fileID: 2100000, guid: c66dac48c7fba344daa2d5a15ce2acb9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nyse_3
+    second: {fileID: 2100000, guid: 35e25b9fb7e887546b34035776f3e9e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nyse_4
+    second: {fileID: 2100000, guid: 4fc9a2c8918c3914aa33478b85568c66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nyse_5
+    second: {fileID: 2100000, guid: a31a0e9882b0eb840b6240facd796f19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nyse_6
+    second: {fileID: 2100000, guid: f18ce8b4210c8d646996adcabe639472, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nyse_7
+    second: {fileID: 2100000, guid: 46a54de08bc10c5469927eba0bd71be8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nyse_7#1
+    second: {fileID: 2100000, guid: 972680d3e10591542918343ef0c38953, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nyse_8
+    second: {fileID: 2100000, guid: ab2e43db48b38314eae2dbadd224ac09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nyse_9
+    second: {fileID: 2100000, guid: 608acba92925a644f96a285750e3bf1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nyse_text
+    second: {fileID: 2100000, guid: a75f4d7cf276d1641a017a3d47631580, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nyse_text0
+    second: {fileID: 2100000, guid: 5fd569854287db24292ec3280ec7384d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nyse_text1
+    second: {fileID: 2100000, guid: cacb8bfdf4d7e6d448606355c68ff8a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nyse_text2
+    second: {fileID: 2100000, guid: a8e176a1dce408f4d85ef13ca87bee90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nyse_text3
+    second: {fileID: 2100000, guid: 0841fbc194f8428409602d6cf85fb9db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nyse_text4
+    second: {fileID: 2100000, guid: c252da87783968c44b0723c33fa6b6b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nyse_text5
+    second: {fileID: 2100000, guid: ffc98e9bf30f3044db76f8ae3ca664f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nyse_text6
+    second: {fileID: 2100000, guid: 6af2f67e79f77f744bc1bf345cd37fac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nyse_text7
+    second: {fileID: 2100000, guid: 5f64a9d8d9e7218489496d9427f14ea5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nyse_text8
+    second: {fileID: 2100000, guid: 5ef269bb0dcaa8f4d9eccd6d17383931, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nyse_text9
+    second: {fileID: 2100000, guid: f4ef7c743e4fe054caca5673aa39ed97, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Users_JAGADI~1_AppData_Local_Temp_nyse_15
+    second: {fileID: 2800000, guid: 46f9b26243e9a46c8a738884aded4d66, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Users_JAGADI~1_AppData_Local_Temp_nyse_7
+    second: {fileID: 2800000, guid: 88c87a2dcdf0844028ff25178a5b527a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Users_jagadishcm_Desktop_GEO_NYSE_Texture_nyse_1
+    second: {fileID: 2800000, guid: fefc4ffdb42de42bd8aed85a22bdc63c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Users_jagadishcm_Desktop_GEO_NYSE_Texture_nyse_10
+    second: {fileID: 2800000, guid: 200de893597874c6c98071101e92be69, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Users_jagadishcm_Desktop_GEO_NYSE_Texture_nyse_11
+    second: {fileID: 2800000, guid: edab3ad9d8db4420b912447dfd9b4835, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Users_jagadishcm_Desktop_GEO_NYSE_Texture_nyse_12
+    second: {fileID: 2800000, guid: e6e254e7603e74a8fb775fa40b7edbec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Users_jagadishcm_Desktop_GEO_NYSE_Texture_nyse_13
+    second: {fileID: 2800000, guid: 4039dcdab10aa446181e4c27f96c741b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Users_jagadishcm_Desktop_GEO_NYSE_Texture_nyse_14
+    second: {fileID: 2800000, guid: edf57b6cbbcab4b9c9ce50cb7ee1734e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Users_jagadishcm_Desktop_GEO_NYSE_Texture_nyse_16
+    second: {fileID: 2800000, guid: b5f33408a68fc425aa6b2c10f9dc62c8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Users_jagadishcm_Desktop_GEO_NYSE_Texture_nyse_17
+    second: {fileID: 2800000, guid: 240c34507996943048ed6c35b5b471e4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Users_jagadishcm_Desktop_GEO_NYSE_Texture_nyse_18
+    second: {fileID: 2800000, guid: 2724b814c8a5640baa31e05dbc707be5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Users_jagadishcm_Desktop_GEO_NYSE_Texture_nyse_19
+    second: {fileID: 2800000, guid: 53b194ee2d9cd4ad9a7db25bce11fa1a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Users_jagadishcm_Desktop_GEO_NYSE_Texture_nyse_2
+    second: {fileID: 2800000, guid: 03b4245e8b49c4fe1a591fe2001cac8d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Users_jagadishcm_Desktop_GEO_NYSE_Texture_nyse_20
+    second: {fileID: 2800000, guid: 78c978364ba5b46e1898878876cb86cd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Users_jagadishcm_Desktop_GEO_NYSE_Texture_nyse_21
+    second: {fileID: 2800000, guid: ed469b222918b4cf2abaff1e247df753, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Users_jagadishcm_Desktop_GEO_NYSE_Texture_nyse_22
+    second: {fileID: 2800000, guid: 112ad6a0daf9c48ceaa7992ecff512b8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Users_jagadishcm_Desktop_GEO_NYSE_Texture_nyse_23
+    second: {fileID: 2800000, guid: 9a1995c5551244f1390864572e186f9f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Users_jagadishcm_Desktop_GEO_NYSE_Texture_nyse_3
+    second: {fileID: 2800000, guid: 869300868a72c4f5e8dc68a66ea8e439, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Users_jagadishcm_Desktop_GEO_NYSE_Texture_nyse_4
+    second: {fileID: 2800000, guid: 0deb361d722c6473b86ede2b50f54ca1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Users_jagadishcm_Desktop_GEO_NYSE_Texture_nyse_5
+    second: {fileID: 2800000, guid: e6c992d07d0644933a01d9bc8e8fb587, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Users_jagadishcm_Desktop_GEO_NYSE_Texture_nyse_8
+    second: {fileID: 2800000, guid: 0782fe2d8e8bd47cf9368a28779d8fb8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Users_jagadishcm_Desktop_GEO_NYSE_Texture_nyse_9
+    second: {fileID: 2800000, guid: 410130b4cc83d416da9d79bd78b4a01f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Google Earth Snapshot
+    second: {fileID: 2800000, guid: aa408eea4ab868247822ed133f1bc8b9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nyse_1
+    second: {fileID: 2800000, guid: a601a9885a64f314a88bd598344cb77f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nyse_10
+    second: {fileID: 2800000, guid: df66a1bc30442d841ab86af33848be17, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nyse_11
+    second: {fileID: 2800000, guid: a67343330de8af14cae4e6b9c22f51f5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nyse_12
+    second: {fileID: 2800000, guid: 64c23f11e609c964399a48e0b4c18410, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nyse_13
+    second: {fileID: 2800000, guid: a22902774e3d51d478e08b5c63e0aa77, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nyse_13(1)
+    second: {fileID: 2800000, guid: 3f5627b531c028144b32ab3546410c49, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nyse_14
+    second: {fileID: 2800000, guid: efcd3f38e08348f49954d54d35fcf27e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nyse_15
+    second: {fileID: 2800000, guid: 10489f82c173d8b428c5367567395589, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nyse_16
+    second: {fileID: 2800000, guid: 600a04403672e5f41aadafe61a2851f5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nyse_17
+    second: {fileID: 2800000, guid: 2db9a9828182caa46967bcd8db088cce, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nyse_18
+    second: {fileID: 2800000, guid: 3d39d2acb7b4be84885975f0ced18dd0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nyse_19
+    second: {fileID: 2800000, guid: 6749897c55fb41f4b8cb428252f7e723, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nyse_2
+    second: {fileID: 2800000, guid: bafe5bbcd2545504d9b0234f677fb7de, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nyse_20
+    second: {fileID: 2800000, guid: 4d79d229af9f10345af567bd34bc3bd0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nyse_21
+    second: {fileID: 2800000, guid: 933f61c95350a6f4aa8801999607ffb5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nyse_22
+    second: {fileID: 2800000, guid: 7c1e949da2ddda443bd8fb7471dc95fc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nyse_23
+    second: {fileID: 2800000, guid: 828184084c6e64f449d95d28a5f816a8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nyse_3
+    second: {fileID: 2800000, guid: b008f75ffdb9faa48876757f49c8e5d6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nyse_4
+    second: {fileID: 2800000, guid: f85bb94e8065f4e478a2672e81013b9f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nyse_5
+    second: {fileID: 2800000, guid: 503fbd7358de8b346948ba7ebdd1365d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nyse_7
+    second: {fileID: 2800000, guid: 252cdf5f5372b5f4b9a52fa3890083b9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nyse_8
+    second: {fileID: 2800000, guid: 60234657348ad4b478c03479535084c1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nyse_9
+    second: {fileID: 2800000, guid: c40a2f18e8b65d24c9f6045269ca333b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nyse_text
+    second: {fileID: 2800000, guid: 028b690512277b64286a83309d060828, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nyse_text0
+    second: {fileID: 2800000, guid: 959416fd383aa924bbf4568f7e7fa6f3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nyse_text1
+    second: {fileID: 2800000, guid: 28eacf061b4728547a653a183a4352be, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nyse_text2
+    second: {fileID: 2800000, guid: e1ceffd7b482ae4438b59b550a7b028f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nyse_text3
+    second: {fileID: 2800000, guid: 980b180703017104596ba2bfa8aec80e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nyse_text4
+    second: {fileID: 2800000, guid: 5b1a8ec3250c13840aa209db01e1ec2a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nyse_text5
+    second: {fileID: 2800000, guid: cb0953c4e73956c478e3f0e2ff5cb315, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nyse_text6
+    second: {fileID: 2800000, guid: 64858dc84a1e043409cd65fb3c45a63a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nyse_text7
+    second: {fileID: 2800000, guid: 255e2e3f58f5ea542a22f8fb9260bf5d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nyse_text8
+    second: {fileID: 2800000, guid: 2adddc510d027b34b8f6e4c166310035, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nyse_text9
+    second: {fileID: 2800000, guid: df98e801c6f3094489ad3a33b42ce90d, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 0
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.0254
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 0
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  generateBackFace: 1
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d000000
+  assetHash:
+    serializedVersion: 2
+    Hash: b4919ba4ebbcfdcbf3d191c987e37bfc
+  fileUnit: 0

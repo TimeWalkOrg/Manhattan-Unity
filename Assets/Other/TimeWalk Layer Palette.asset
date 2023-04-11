@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c509dbaa7b6f416409e3195321a2187e, type: 3}
+  m_Name: TimeWalk Layer Palette
+  m_EditorClassIdentifier: 
+  PaletteLayers:
+  - {fileID: 8574412962073106934, guid: e2803857e3ccb47fe81a5470d365f6a7, type: 2}
+  - {fileID: 8574412962073106934, guid: 4e221f9ea133e064e971723915dc51c4, type: 2}
+  - {fileID: 8574412962073106934, guid: 2fcd257669c9c43e9a6e18d96ae26c2a, type: 2}
+  - {fileID: 8574412962073106934, guid: 8969af31ef0a040e88173862efb8efaa, type: 2}
+  - {fileID: 8574412962073106934, guid: 31416a9e5101d41babb95d89f7427999, type: 2}
+  - {fileID: 8574412962073106934, guid: 4a1efbca14a1b43d08dab9a7f3f8b787, type: 2}

@@ -1,0 +1,714 @@
+fileFormatVersion: 2
+guid: 2a630299b04684e588ce61e3187b8dcb
+SketchUpImporter:
+  serializedVersion: 21202
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_B1
+    second: {fileID: 2100000, guid: 0d8894b8787e4bb4fb0a7ee59cccf827, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_B10
+    second: {fileID: 2100000, guid: 95cfbfe20ffd24c41be620baa0698b7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_350 _Entrance
+    second: {fileID: 2100000, guid: cf7c66b3c1e42204aa90548d2ba31614, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_Aerial
+    second: {fileID: 2100000, guid: 191101c269a1cba48b76704e21a04bbe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_Aerial1
+    second: {fileID: 2100000, guid: b39793f5a1c651940bd1d56780de6fd5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_Aerial3
+    second: {fileID: 2100000, guid: c176f3031185e684c84518fee38b6fb0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_Aerial4
+    second: {fileID: 2100000, guid: 207c312f20f707a4e92248a75ece8dfd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_Front Windows
+    second: {fileID: 2100000, guid: 7db7d4d9fa7ff4d469921000f4b116d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_Front WindowsBottom
+    second: {fileID: 2100000, guid: 842a24535185fc7448ea24f97dd3bc3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_Name
+    second: {fileID: 2100000, guid: 2f40c10dab1ba504dba5a180c4e949c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_NorthSide1_Centre1
+    second: {fileID: 2100000, guid: 1507df3a1c180544392798c3aed228ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_NorthSide2
+    second: {fileID: 2100000, guid: 7f9ecce5121128943bde2063781887ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_NorthSide3
+    second: {fileID: 2100000, guid: a15183bf2ffac414a8715bf83d32ee4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_Roof
+    second: {fileID: 2100000, guid: 7816847a090729847b422b01ce9efbfd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_Side Windows
+    second: {fileID: 2100000, guid: f3e9e384abb0a7043ad5bab3989f01ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_Side Windows_Bottom1
+    second: {fileID: 2100000, guid: 7e654306ae620324581db5d893aa60b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_Side Windows_Bottom2
+    second: {fileID: 2100000, guid: 65cc1bff90a350947ad008ab71d9525c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_Side Windows_Bottom3
+    second: {fileID: 2100000, guid: 646389409d4f4004695551989657d9cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_Side1 Windows
+    second: {fileID: 2100000, guid: 55d430b33df1aa24d907f8e692a13d51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_Side1 Windows_Bottom1
+    second: {fileID: 2100000, guid: 507a8f62d43bd9f44aef3ef70d8b3e14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_Side1 Windows_Bottom2
+    second: {fileID: 2100000, guid: c097cd476fc410649bb6761bc894dceb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_Side1 Windows_Bottom3
+    second: {fileID: 2100000, guid: df5e35570fa6f2444b57ef5079a405a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_SideFacadeTexture
+    second: {fileID: 2100000, guid: 658c417bcba4afc4dac3a6882ebecce0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_Top SingleWindow
+    second: {fileID: 2100000, guid: 15cdb12a2fd3add428cef036c2dee3ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_Top1
+    second: {fileID: 2100000, guid: e84ad0aaa284ca045a7ccca72173877c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_Top2
+    second: {fileID: 2100000, guid: c91fa76d7b8d5cd4eb1d73e2039b2c3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_WestSide1
+    second: {fileID: 2100000, guid: dba927bcff0975f40865f886e56cd46c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_WestSide2
+    second: {fileID: 2100000, guid: 7e2aa7147e4d8e14e8c1afe177ee9fff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_WestSide_new_1
+    second: {fileID: 2100000, guid: 032280f1a7bc83b448526da66dec066c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Empire State_Front Bottom
+    second: {fileID: 2100000, guid: 57fef976d42603140a3951aa765d53ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Empire State_Side Bottom
+    second: {fileID: 2100000, guid: a2d116a3207adbb49a7257584989c406, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Empire State_Top 2
+    second: {fileID: 2100000, guid: e70a609a59f4b6a49aadea5838c40fa9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Empire State_Top Arch
+    second: {fileID: 2100000, guid: 6391f40b91018944583804e4add40f49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Empire State_Top1
+    second: {fileID: 2100000, guid: b080804b98d7e7a4ca5b7bb5ea6d7f9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Empire State_Top2
+    second: {fileID: 2100000, guid: ec1a3aa7464e699459b368dcf66ee9f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: 7c0641e60861cd44b96e14464ef827a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: t1
+    second: {fileID: 2100000, guid: d35acca654c10c148a66e67221c40d05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: t2
+    second: {fileID: 2100000, guid: d7fd78b872bb26e45bfffaafb7b072fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: t5
+    second: {fileID: 2100000, guid: 26874161e4f41a74da9e0d2040059ac7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: t6
+    second: {fileID: 2100000, guid: c4770df2fcd399d488947e24268c4b81, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_Zack Mertz_Desktop_Empire State Building_Aerial
+    second: {fileID: 2800000, guid: 6bf1f2ddee0624ae18dbfddc97130b8b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_11 Mar Empire State Buliding_Textures_Empire
+        State Building_Name
+    second: {fileID: 2800000, guid: 774a80c2ede4c436e8ab3ff90a008ccb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_11 Mar Empire State Buliding_Textures_Empire
+        State Building_Roof
+    second: {fileID: 2800000, guid: b1af00cbdd83f4e0db01e1376bd9fb24, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_12 Mar Empire State Buliding_Textures_Empire
+        State Building_Front Windows
+    second: {fileID: 2800000, guid: e12614198615d406687646bf18734988, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_12 Mar Empire State Buliding_Textures_Empire
+        State Building_Front WindowsBottom
+    second: {fileID: 2800000, guid: b04ca3e97d35041438fb43a37c4ee2c9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_12 Mar Empire State Buliding_Textures_Empire
+        State_Top 2
+    second: {fileID: 2800000, guid: 95f7e2134c45640508e29b070c309616, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_12 Mar Empire State Buliding_Textures_Empire
+        State_Top Arch
+    second: {fileID: 2800000, guid: a3363c6488bee4b1faaf7cdcd711cd88, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_12 Mar Empire State Buliding_Textures_Empire
+        State_Top1
+    second: {fileID: 2800000, guid: 5c97dfffccf4f444796d2bde0c00cae9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_14 Mar Empire State Buliding_Textures_Empire
+        State Building_Side Windows
+    second: {fileID: 2800000, guid: 00d056d7809134c3594a783a6f582df4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_14 Mar Empire State Buliding_Textures_Empire
+        State Building_Side Windows_Bottom1
+    second: {fileID: 2800000, guid: 7731bc43359cf4d0489351be1afe936e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_14 Mar Empire State Buliding_Textures_Empire
+        State Building_Side Windows_Bottom2
+    second: {fileID: 2800000, guid: 3879242ec5ebb4900929fb532bad274e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_14 Mar Empire State Buliding_Textures_Empire
+        State Building_Side Windows_Bottom3
+    second: {fileID: 2800000, guid: 9ae0145527e93435ba805c50d1cbed61, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_14 Mar Empire State Buliding_Textures_Empire
+        State Building_Side1 Windows
+    second: {fileID: 2800000, guid: a7bb79e23ef3c437c9d3ec4af7e7f2e2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_14 Mar Empire State Buliding_Textures_Empire
+        State Building_Side1 Windows_Bottom1
+    second: {fileID: 2800000, guid: 9f7704f0b197e4aeaa85bcd3e24367ab, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_14 Mar Empire State Buliding_Textures_Empire
+        State Building_Side1 Windows_Bottom2
+    second: {fileID: 2800000, guid: ee32c445b0de84efebaf2e797d317e5b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_14 Mar Empire State Buliding_Textures_Empire
+        State Building_Side1 Windows_Bottom3
+    second: {fileID: 2800000, guid: 96c29aed104014f17a5fdb47507d57f3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_14 Mar Empire State Buliding_Textures_Empire
+        State Building_SideFacadeTexture
+    second: {fileID: 2800000, guid: bd0889a8cfc45485bb4f31126547c4cf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_15 Mar_Empire State Buliding_Textures_Empire
+        State Building_Aerial2
+    second: {fileID: 2800000, guid: 1b03977a8ee1943c58ad2006f4903d80, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_15 Mar_Empire State Buliding_Textures_Empire
+        State Building_Aerial3
+    second: {fileID: 2800000, guid: e6c5ddfa1a2124003a942c0f86560441, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_15 Mar_Empire State Buliding_Textures_Empire
+        State Building_Aerial4
+    second: {fileID: 2800000, guid: 468999b0f7a4340c88bcf9d3d1202a71, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_21 Mar_Empire State Buliding_Textures_Empire
+        State Building_NorthSide2
+    second: {fileID: 2800000, guid: 17cd6213c24444c2a9e44647b9c0465e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_21 Mar_Empire State Buliding_Textures_Empire
+        State Building_NorthSide3
+    second: {fileID: 2800000, guid: 98a66fc7cd49f407c9e705c50e17d104, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_21 Mar_Empire State Buliding_Textures_Empire
+        State Building_Top SingleWindow
+    second: {fileID: 2800000, guid: 63868c33def89445caafbfca37728fec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_21 Mar_Empire State Buliding_Textures_Empire
+        State Building_Top1
+    second: {fileID: 2800000, guid: dca0707537df140349a21fd639afe114, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_21 Mar_Empire State Buliding_Textures_Empire
+        State Building_Top2
+    second: {fileID: 2800000, guid: 06bde49a8f08749e790407ef84b73d55, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_21 Mar_Empire State Buliding_Textures_Empire
+        State Building_WestSide1
+    second: {fileID: 2800000, guid: 5664bfbc2afd74e19bf5459e1c28dd5e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_21 Mar_Empire State Buliding_Textures_Empire
+        State Building_WestSide2
+    second: {fileID: 2800000, guid: 955b5a05e05e9441cae37edbc9e207e6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_21 Mar_Empire State Buliding_Textures_Empire
+        State_Top2
+    second: {fileID: 2800000, guid: d9eeae5d032c046d5807a8254655dc46, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_Empire State Building_350 _Entrance
+    second: {fileID: 2800000, guid: e6d6b1616fea44649aa3423eb81425e8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: E__sirisha_EVAM_April_09 april 2007_empire state textures_Empire State
+        Building_NorthSide2_Centre
+    second: {fileID: 2800000, guid: c1777a2d3f44740bea4f8c9d1d74dee8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: E__sirisha_EVAM_April_09 april 2007_empire state textures_Empire State
+        Building_NorthSide_1
+    second: {fileID: 2800000, guid: e661cfc47dc1f4424804ca87729de4af, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: E__sirisha_EVAM_April_09 april 2007_empire state textures_Empire State
+        Building_WestSide_new_1
+    second: {fileID: 2800000, guid: 7e73e0ba13a1d43a0a66274963234a4a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: E__sirisha_EVAM_April_09 april 2007_empire state textures_Empire State_Front
+        Bottom_1
+    second: {fileID: 2800000, guid: 9f3776f060ced41a8a75862d9b112398, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: E__sirisha_EVAM_April_09 april 2007_empire state textures_Empire State_Side
+        Bottom_1
+    second: {fileID: 2800000, guid: 29b388d2c2bfc4ba1b91c900a8693dfc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: E__sirisha_EVAM_April_09 april 2007_empire state textures_t2
+    second: {fileID: 2800000, guid: 4da686698579345cd8568fba0e84b713, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: E__sirisha_EVAM_April_09 april 2007_empire state textures_t5
+    second: {fileID: 2800000, guid: 572e4176457a84865a90a404392309ce, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: E__sirisha_EVAM_April_09 april 2007_empire state textures_t6
+    second: {fileID: 2800000, guid: b47ead0a97223459393dd4e8ba896357, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_350 _Entrance
+    second: {fileID: 2800000, guid: 952b6bb699875324cbaefb8539e40e28, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_Aerial
+    second: {fileID: 2800000, guid: 72137d06075fcb345a6f0db4519971b6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_Aerial2
+    second: {fileID: 2800000, guid: 7112d1ef5f7a64443848a593c4cec385, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_Aerial3
+    second: {fileID: 2800000, guid: 09fe07d869269a64d88a4699d05fd84a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_Aerial4
+    second: {fileID: 2800000, guid: c2051322ce990564dbe7269cb072faed, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_Front Windows
+    second: {fileID: 2800000, guid: 65eef17e2d5c9c24daa18453818e10e9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_Front WindowsBottom
+    second: {fileID: 2800000, guid: b68f2f80afeb65143862a71ec5946d12, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_Name
+    second: {fileID: 2800000, guid: 4451d9ae94df49148912ff5fc8c204e6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_NorthSide2
+    second: {fileID: 2800000, guid: 30b4f4fecb331d24f8f1ce2ebf8bc9a2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_NorthSide2_Centre
+    second: {fileID: 2800000, guid: 822ca97ec8551c14f9dfad4e6350a2b8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_NorthSide3
+    second: {fileID: 2800000, guid: e34f8c8992948cd41aea6dc425be9f52, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_NorthSide_1
+    second: {fileID: 2800000, guid: 474325e7ab0590f4daa2a44e12d4279c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_Roof
+    second: {fileID: 2800000, guid: b40119370e12c5f48ad2128fadf08418, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_Side Windows
+    second: {fileID: 2800000, guid: 999a7439c86b15c499b0d088803754e8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_Side Windows_Bottom1
+    second: {fileID: 2800000, guid: 672ecd86427333c42955a87c977985ba, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_Side Windows_Bottom2
+    second: {fileID: 2800000, guid: cf5922b8d8bb752439854996b2656cbb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_Side Windows_Bottom3
+    second: {fileID: 2800000, guid: 2b5054ae635700e42a6cdf38bdd50b8b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_Side1 Windows
+    second: {fileID: 2800000, guid: fc477ff02cfd46d429ec2a79f56eb50d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_Side1 Windows_Bottom1
+    second: {fileID: 2800000, guid: 26eb46bd5ef1d99409561589a9c64e60, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_Side1 Windows_Bottom2
+    second: {fileID: 2800000, guid: d30703207c089f1489796672cc1d2993, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_Side1 Windows_Bottom3
+    second: {fileID: 2800000, guid: a9507e38a65152d49a484826a2b3f340, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_SideFacadeTexture
+    second: {fileID: 2800000, guid: f0be9253d4ce56d4aaa5ba1ce3c11c2e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_Top SingleWindow
+    second: {fileID: 2800000, guid: 5d931f93a1cdba54da7b12143fc17873, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_Top1
+    second: {fileID: 2800000, guid: 50b863efbde73f74d9f2a5d9a4cdd50f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_Top2
+    second: {fileID: 2800000, guid: 3c58593d68b48eb429a6b2b7ffbad9ce, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_WestSide1
+    second: {fileID: 2800000, guid: 55d239f39bdc46946ba88e7d01278989, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_WestSide2
+    second: {fileID: 2800000, guid: 3946681a98d5a4b429023f2b4116079f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_WestSide_new_1
+    second: {fileID: 2800000, guid: 684697096111f0b4f86cfa0aca92f777, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State_Front Bottom_1
+    second: {fileID: 2800000, guid: 091953a75d6f4cc41967bb3e66b3c622, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State_Side Bottom_1
+    second: {fileID: 2800000, guid: 84faffd71f2017c48a37fc0f030b477c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State_Top 2
+    second: {fileID: 2800000, guid: 828127c4b8b8a6e4b8d5b121074ebf99, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State_Top Arch
+    second: {fileID: 2800000, guid: ed282683cb51ee34197d996970f94ccb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State_Top1
+    second: {fileID: 2800000, guid: d651e1f46946bdf43a7fcecb7b6b3b2a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State_Top2
+    second: {fileID: 2800000, guid: 095fed71c8ed35444b9b2a250f5ec70f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: t2
+    second: {fileID: 2800000, guid: 9db2bf261b234c84d95aa4bb9df452e3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: t5
+    second: {fileID: 2800000, guid: d5239e4001e0da442bce26e35395efa7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: t6
+    second: {fileID: 2800000, guid: c28817bcdd3173e43b478cb9354c0e5b, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 0
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.0254
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 0
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  generateBackFace: 1
+  mergeCoplanarFaces: 0
+  selectedNodes: 0000000001000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 106d40935a5ddd9ea7845da5d9fef863
+  fileUnit: 0

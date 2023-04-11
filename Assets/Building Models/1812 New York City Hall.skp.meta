@@ -1,0 +1,470 @@
+fileFormatVersion: 2
+guid: 47c92faab717f4a09a9c9aa66e237fbb
+SketchUpImporter:
+  serializedVersion: 21202
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ANYCityHall_Stairs
+    second: {fileID: 2100000, guid: 36a3f5e469e75c94b8d402134e97a701, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_C19
+    second: {fileID: 2100000, guid: 1107ef0f8840c6549985a4fcabf0eb44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Google Earth Snapshot1
+    second: {fileID: 2100000, guid: 25c9e742f513c574899d952a462fca89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NYCityHall_Aerial2
+    second: {fileID: 2100000, guid: 5e48d5d8aafbae94b9576c3d7837a9b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NYCityHall_Dome copy1
+    second: {fileID: 2100000, guid: 0735f15e8e104fa429aff5b544c0a9be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NYCityHall_DomePattern
+    second: {fileID: 2100000, guid: 2666afd5aa4066048830b6f7673fd636, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NYCityHall_DomeSegment
+    second: {fileID: 2100000, guid: f82f277cf4a2c214196b3aa40e1fa0a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NYCityHall_Dome_bottom
+    second: {fileID: 2100000, guid: 6fa5971b618115f46b767a49f7d7fd74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NYCityHall_Dome_front1
+    second: {fileID: 2100000, guid: 0ac65405ec2bbb84bb77fd6c77305a8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NYCityHall_Dome_side1
+    second: {fileID: 2100000, guid: 03a1dd1dbd1ffec498ea72ad11e97ff4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NYCityHall_Flag
+    second: {fileID: 2100000, guid: ec7c928446811214687a97be7bde6ff1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NYCityHall_Flag1
+    second: {fileID: 2100000, guid: 2a48e135978d3794ea041555f12e1509, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NYCityHall_Flag2
+    second: {fileID: 2100000, guid: a9a431d82b96dfa48bea2f82c3bde325, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NYCityHall_Front Corner
+    second: {fileID: 2100000, guid: 65ae250dc2331d9499bafdde7559d8df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NYCityHall_Front1
+    second: {fileID: 2100000, guid: 911356bbdbeb4aa488e66e5799d161d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NYCityHall_FrontTop
+    second: {fileID: 2100000, guid: 4b1981da82ecc3b4983317e34f744bde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NYCityHall_FrontTopWindows
+    second: {fileID: 2100000, guid: fc733d52f0db3f447b1fadef9891c0d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NYCityHall_Justice
+    second: {fileID: 2100000, guid: 122d6b7b10a88b545a0192aec5a360e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NYCityHall_LampPost
+    second: {fileID: 2100000, guid: d38af82c7896c4a49a288118c9274a14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NYCityHall_Pillar
+    second: {fileID: 2100000, guid: 3afdfaab5a914494d96176c8acc98e4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NYCityHall_Side
+    second: {fileID: 2100000, guid: b940d973afa8ba24daee225d2ca61500, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NYCityHall_TopPillar
+    second: {fileID: 2100000, guid: 63a9133f43d5b4a4f9f3e86b1785032c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NYCityHall_TopRailing
+    second: {fileID: 2100000, guid: 5e00439870025974a84bde3b5e962642, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NYCityHall_Wall Top
+    second: {fileID: 2100000, guid: 4553b903e039a7a4a8d47eb37ae44f8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: 545ed7bd103e8e2408d78b6acedc7efd, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__DOCUME~1_murali_LOCALS~1_Temp_GEI74
+    second: {fileID: 2800000, guid: ac60e63cf8e7a4466a88d0099e5e81d7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_Zack Mertz_Desktop_NYCityHall_Aerial2
+    second: {fileID: 2800000, guid: 93ccc1167c8f94534940a8e4fa9c8e8e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_9 Mar NewYork CityHall_Textures_NYCityHall_DomePattern
+    second: {fileID: 2800000, guid: 734b4a2d405344ff482873194737d125, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_9 Mar NewYork CityHall_Textures_NYCityHall_DomeSegment
+    second: {fileID: 2800000, guid: 39030ad57d7c6441cb76abd4e6164397, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_9 Mar NewYork CityHall_Textures_NYCityHall_Flag
+    second: {fileID: 2800000, guid: 5f45ff71cfe9748d7bf3aee816a964c8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_9 Mar NewYork CityHall_Textures_NYCityHall_Flag1
+    second: {fileID: 2800000, guid: 7f763a6b689484e8d8a0d551f2255d8c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_9 Mar NewYork CityHall_Textures_NYCityHall_Flag2
+    second: {fileID: 2800000, guid: 6abc6f6d8020b466f9b93cce5adeb418, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_9 Mar NewYork CityHall_Textures_NYCityHall_Front1
+    second: {fileID: 2800000, guid: 092a475ffbfc946438c752ed91271d0c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_9 Mar NewYork CityHall_Textures_NYCityHall_FrontCorner
+    second: {fileID: 2800000, guid: 99d8fa1014d3845eb9043b06049437fb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_9 Mar NewYork CityHall_Textures_NYCityHall_Justice
+    second: {fileID: 2800000, guid: 3a7606883c13348b29f1bd0270102007, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_9 Mar NewYork CityHall_Textures_NYCityHall_LampPost
+    second: {fileID: 2800000, guid: aaa8450189ef54f9e8e60a96880d5c0d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_9 Mar NewYork CityHall_Textures_NYCityHall_Pillar
+    second: {fileID: 2800000, guid: 08c63053ed29f40a7985cb111d9c8796, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_9 Mar NewYork CityHall_Textures_NYCityHall_Side
+    second: {fileID: 2800000, guid: 13a1ed66d1b6c42618f2382dd0d67715, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_9 Mar NewYork CityHall_Textures_NYCityHall_Stairs
+    second: {fileID: 2800000, guid: 9e24e20a58e634db99ba771e47f0ee2f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_9 Mar NewYork CityHall_Textures_NYCityHall_TopPillar_tint0xBFBEBDFF
+    second: {fileID: 2800000, guid: a4b0b19d9a3ec4e99a3d674dede8d6d4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_9 Mar NewYork CityHall_Textures_NYCityHall_TopRailing
+    second: {fileID: 2800000, guid: 1a152140645244070987bf14345c862f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_9 Mar NewYork CityHall_Textures_NYCityHall_Wall
+        Top
+    second: {fileID: 2800000, guid: 69fd330a0d6904b2aa60b6a8326da6f8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_NYCityHall_Dome_front
+    second: {fileID: 2800000, guid: 3acfea56a001748108f43b7a317d7304, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_SketchupFiles_02_SketchupPratices_TO_Zack_05_March_10
+        Mar New York_10 Mar NewYork City Hall_Textures_NYCityHall_FrontTop
+    second: {fileID: 2800000, guid: e3d2ef0390d4e469cab14381648eb23e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_SketchupFiles_02_SketchupPratices_TO_Zack_05_March_10
+        Mar New York_10 Mar NewYork City Hall_Textures_NYCityHall_FrontTopWindows
+    second: {fileID: 2800000, guid: 2ed1afedf612747b99a869adfbb512ef, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_cityhall_NYCityHall_Dome copy
+    second: {fileID: 2800000, guid: 730616f06bb174bf6b3dc6f3d52a623c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_cityhall_NYCityHall_Dome_bottom
+    second: {fileID: 2800000, guid: ad5206dc5169e49408cbf46cedf7a78c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_murali_Desktop_cityhall_NYCityHall_Dome_side
+    second: {fileID: 2800000, guid: 2bcf098c725504ca985b5f43879b514e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GEI74
+    second: {fileID: 2800000, guid: 42c1dd38df5a8d748b9a97c2559c9a35, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: NYCityHall_Aerial2
+    second: {fileID: 2800000, guid: a94b62306ff439144ade616d79fd9c7d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: NYCityHall_Dome copy
+    second: {fileID: 2800000, guid: 90cbae3bf4f9e244282b5dab8b12365b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: NYCityHall_DomePattern
+    second: {fileID: 2800000, guid: 8034ed2e0af8bfc47a7a32c6e8ef7c36, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: NYCityHall_DomeSegment
+    second: {fileID: 2800000, guid: 8450ad16ab4509849970330f83115821, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: NYCityHall_Dome_bottom
+    second: {fileID: 2800000, guid: 76b59f6035c6574448065d6985150839, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: NYCityHall_Dome_front
+    second: {fileID: 2800000, guid: bfe5dad7c0f3b6d44b958f0a4f1e4b09, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: NYCityHall_Dome_side
+    second: {fileID: 2800000, guid: be794a9dc4f94e743be3dcda195f6ced, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: NYCityHall_Flag
+    second: {fileID: 2800000, guid: 78db14c6eaff9574a96ce424f37163d0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: NYCityHall_Flag1
+    second: {fileID: 2800000, guid: 3d788d2aaf1cd894f8d59344cec543d2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: NYCityHall_Flag2
+    second: {fileID: 2800000, guid: 57cabc4d6b53d3941a5386bd2c5a654a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: NYCityHall_Front1
+    second: {fileID: 2800000, guid: bdbabfa7c29262f40b8f521c04a90697, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: NYCityHall_FrontCorner
+    second: {fileID: 2800000, guid: 023a562277f951d43b96837dd1587480, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: NYCityHall_FrontTop
+    second: {fileID: 2800000, guid: 7af6a9485ca021c46b56fbab241425e5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: NYCityHall_FrontTopWindows
+    second: {fileID: 2800000, guid: f28f77fc6804cc24791b086066bc494d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: NYCityHall_Justice
+    second: {fileID: 2800000, guid: fa4a1b9325108dd4587dc721560963df, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: NYCityHall_LampPost
+    second: {fileID: 2800000, guid: 91e1c543a5369b34ea30714b927390d4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: NYCityHall_Pillar
+    second: {fileID: 2800000, guid: 73ea13858ad5e5e428732402cd9f653c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: NYCityHall_Side
+    second: {fileID: 2800000, guid: 4eacf98b14301ef489c2b0c9e93946b8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: NYCityHall_Stairs
+    second: {fileID: 2800000, guid: 09506ccc078dfb149946d38979ca9e65, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: NYCityHall_TopPillar_tint0xBFBEBDFF
+    second: {fileID: 2800000, guid: d6f32238d416c3840a1091ab5cbef1a8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: NYCityHall_TopRailing
+    second: {fileID: 2800000, guid: 7dbd59d7129b94146b3e3c2dfadddda5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: NYCityHall_Wall Top
+    second: {fileID: 2800000, guid: 3b03d6e1382f4004598d0de798f9d36e, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 0
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.0254
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 0
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  generateBackFace: 1
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000200000003000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 94b1291ab9effe057fbb4a83017c826f
+  fileUnit: 0

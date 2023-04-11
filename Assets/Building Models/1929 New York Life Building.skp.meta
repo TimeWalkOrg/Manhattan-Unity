@@ -1,0 +1,545 @@
+fileFormatVersion: 2
+guid: 79df46c29ede34771b9e1192c9bcdfc9
+SketchUpImporter:
+  serializedVersion: 21202
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 002
+    second: {fileID: 2100000, guid: 15cb43f1a7a3c654d9b2461855520e2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0162 final 3windows copy
+    second: {fileID: 2100000, guid: 13c16ff3207666a47b0536225389d6a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0177 one window copy
+    second: {fileID: 2100000, guid: 318b2fb2d822ab3478eda2af728f2501, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02terrian
+    second: {fileID: 2100000, guid: 21d97eae68f060b4385277caacfeeab6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1floor  copy
+    second: {fileID: 2100000, guid: 904541a2900e44549bd176b765428db1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 2
+    second: {fileID: 2100000, guid: e6bce2695d951af45bb902f52f35afb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 2 block 4 windows copy
+    second: {fileID: 2100000, guid: 6e172082903951a47a07aec714db4a92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 2 block left side 6 window copy
+    second: {fileID: 2100000, guid: abb2d87e789ecb84384b9568d8ccead5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 2 block middle image 7windows copy
+    second: {fileID: 2100000, guid: 76594ed38b85d1b4194f1dccc12fcac4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 2 floor terrrian
+    second: {fileID: 2100000, guid: 3444033c7cdd8574fb3ae139587b17d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 3 block 5 window
+    second: {fileID: 2100000, guid: ca3241cf67bb64540ad84c4050a7735d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 3 block side wall copy
+    second: {fileID: 2100000, guid: 1aab8da5c155d2044a29623c19499f38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IMG_0162 final 3windows copy1
+    second: {fileID: 2100000, guid: 1bc366b6e94d65447bffd76e1941b86c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IMG_0171 final copy
+    second: {fileID: 2100000, guid: cad801d4eda5e6d4aae96d27b61b707c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: 180e0bc1f54fe53418252f665480e294, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aerialtop
+    second: {fileID: 2100000, guid: 6fcf0bb4b444f16488ed4c2783115443, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cornere
+    second: {fileID: 2100000, guid: 7257620e3ab3669488bffd111eb0e8c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gold
+    second: {fileID: 2100000, guid: 369bb96b576240b41a1f4581d2af1eaa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: single 3 block part 1
+    second: {fileID: 2100000, guid: 12547380974ad0049a4378c5b0d66940, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: single 3 block s
+    second: {fileID: 2100000, guid: 6e737ede353e28d4cb4a08d6777398f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: terrian
+    second: {fileID: 2100000, guid: 782858b538611d8498a36603e0fd0734, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tip of building
+    second: {fileID: 2100000, guid: 81f25ba4d5263074c95384ce8b672ab5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: top gold
+    second: {fileID: 2100000, guid: e114d5a684cb942499c02c8e11d2f228, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: top wall
+    second: {fileID: 2100000, guid: 7d18987fa4bb98c4ea94d081cb93b919, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: top2
+    second: {fileID: 2100000, guid: fc6d32ea10bd6c54988cbadcd134fe22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: top_gold
+    second: {fileID: 2100000, guid: 9d1f4c2cb671094489ff02f39084d893, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: txt1
+    second: {fileID: 2100000, guid: 205d44998e02f074d9c85924aec5037a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: txt2
+    second: {fileID: 2100000, guid: 23bcc4de8ded4544186765300fc53cfc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: txt3
+    second: {fileID: 2100000, guid: 5976e78d12438ab4e842d7e39d6a26c8, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 001
+    second: {fileID: 2800000, guid: fb837b94c37e20746bc2e411d4364871, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 002
+    second: {fileID: 2800000, guid: c994f8dca078d2043b0f0891149960b5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 0162 final 3windows copy
+    second: {fileID: 2800000, guid: 428f28293ebdc954c99513836fb4d559, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 0177 one window copy
+    second: {fileID: 2800000, guid: adad86c5022f32247b4d607e610faae1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 02terrian
+    second: {fileID: 2800000, guid: a11475b456df14743a7024fdb5aaa0d7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1111_tint0xA7A9AAFF
+    second: {fileID: 2800000, guid: e13e30f1df0633442b66cfa0418212e8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1floor  copy
+    second: {fileID: 2800000, guid: ff8b723ee8a0d0640827c463f9287913, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 2 block 4 windows copy
+    second: {fileID: 2800000, guid: 0a67efe494ff20e4fb3bcbd077feab81, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 2 block left side 9 window copy
+    second: {fileID: 2800000, guid: 530e8e221a75b2242a98dfb67eded079, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 2 block middle image 7windows copy
+    second: {fileID: 2800000, guid: b936f68913ad3354daafe22616dd7c92, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 2 floor terrrian_tint0x8D8D8DFF
+    second: {fileID: 2800000, guid: 0caefa58a2f25984faec62e8bd6e1fe0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 222png_tint0xB7BAB9FF
+    second: {fileID: 2800000, guid: ea031c23d9ceac7478a1cf70ca55c16c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 3 block 5 window 001
+    second: {fileID: 2800000, guid: d82d2cea90a522c438419234bd7449a2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 3 block side wall copy
+    second: {fileID: 2800000, guid: 82a06aa735f412245be95a1340c2add5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_Zack Mertz_Desktop_top_gold
+    second: {fileID: 2800000, guid: 1060a303e31694f848107b39512e67eb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_musani_Desktop_2 floor terrrian_tint0x8D8D8DFF
+    second: {fileID: 2800000, guid: 70565deaf309b4ca696c22b3c41d874b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_musani_Desktop_New Folder_0162 final 3windows
+        copy
+    second: {fileID: 2800000, guid: 0c9dff396431b41799326e3f8f446ae3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_musani_Desktop_New Folder_1floor  copy
+    second: {fileID: 2800000, guid: 46cff17cc23064bc3a9785eb35dfb3b6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_musani_Desktop_New Folder_3 block side wall
+        copy
+    second: {fileID: 2800000, guid: 6c006dc1859774bcba0c587f271eae30, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_musani_Desktop_New Folder_IMG_0171 final copy
+    second: {fileID: 2800000, guid: 801545023599b460e8f476ce1f548c2b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_musani_Desktop_New Folder_cornere
+    second: {fileID: 2800000, guid: 8f55134c1b2ae44769d45aee3bac5544, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_musani_Desktop_aerialtop
+    second: {fileID: 2800000, guid: 61ebd0cd7d8e54b2ab972da856ea0e78, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: D__Anil_NEW YORK LIFE BUILDING_Newyork Life Building_final_Textures_0177
+        one window copy
+    second: {fileID: 2800000, guid: 81062cd6cacaa4fcc9143e7d65f5d753, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: D__Anil_NEW YORK LIFE BUILDING_Newyork Life Building_final_Textures_1111_tint0xA7A9AAFF
+    second: {fileID: 2800000, guid: ae7cac1372dee4823892de9f3a9fa50e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: D__Anil_NEW YORK LIFE BUILDING_Newyork Life Building_final_Textures_2
+        block 4 windows copy
+    second: {fileID: 2800000, guid: 478b06ed6c0254cefbafb26cbed35399, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: D__Anil_NEW YORK LIFE BUILDING_Newyork Life Building_final_Textures_2
+        block left side 9 window copy
+    second: {fileID: 2800000, guid: 226efe35f4ee24bb8b6bb6a9a19496f2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: D__Anil_NEW YORK LIFE BUILDING_Newyork Life Building_final_Textures_2
+        block middle image 7windows copy
+    second: {fileID: 2800000, guid: 91474cd2975e24a9886d8ad458298a0d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: D__Anil_NEW YORK LIFE BUILDING_Newyork Life Building_final_Textures_222png_tint0xB7BAB9FF
+    second: {fileID: 2800000, guid: e87c850dc5fbb4bc49500a15520c8329, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: D__Anil_NEW YORK LIFE BUILDING_Newyork Life Building_final_Textures_3
+        block 5 window 001
+    second: {fileID: 2800000, guid: 1667bf66d11d24703b47ad8b559476df, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: D__Anil_NEW YORK LIFE BUILDING_Newyork Life Building_final_Textures_IMG_0162
+        final 3windows copy
+    second: {fileID: 2800000, guid: aab9ba4473a4146babb44c6ed1be621e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: D__Anil_edited images_001
+    second: {fileID: 2800000, guid: 1ebbffe5c2ff246d58fed66be9ae788b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: D__Anil_edited images_002
+    second: {fileID: 2800000, guid: 73d2ec5fd26ac43cabdf661b61b548ea, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: D__Anil_edited images_02terrian
+    second: {fileID: 2800000, guid: b9a042fc94f61421199d6e8c7c41d40a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: D__Anil_edited images_gold
+    second: {fileID: 2800000, guid: 3b02301fabe454bd19fa36f4efa7e1f3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: D__Anil_edited images_single 3 block part 1
+    second: {fileID: 2800000, guid: 2dd21d80d9cbb409cbf0afa4eb0fe27e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: D__Anil_edited images_single 3 block s
+    second: {fileID: 2800000, guid: 44c7256f23bad40df9ceaf2f38e4f87e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: D__Anil_edited images_terrian
+    second: {fileID: 2800000, guid: dfbbb051ced4b4972bb7f43a487c7374, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: D__Anil_edited images_tip of building
+    second: {fileID: 2800000, guid: 37611c57848404ff8a7161610c0ca425, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: D__Anil_edited images_top gold
+    second: {fileID: 2800000, guid: e1295910a63a24a638eba661c0748970, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: D__Vinod_New York Life Building_txt1
+    second: {fileID: 2800000, guid: 303a2018f169241d9b0a71f4803a0e0c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: D__Vinod_New York Life Building_txt2
+    second: {fileID: 2800000, guid: 221ff119149d241128113d200e4a6183, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: D__Vinod_New York Life Building_txt3
+    second: {fileID: 2800000, guid: dc3816ebfafcf4bf2ab5f3760932358e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: IMG_0162 final 3windows copy
+    second: {fileID: 2800000, guid: c2e6b484bd2f3eb449f96d7131ada32c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: IMG_0171 final copy
+    second: {fileID: 2800000, guid: ad1669e8820cfe242ab935b15386e94e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aerialtop
+    second: {fileID: 2800000, guid: 3569c9a2119e2b84b9bef37b407e1d30, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cornere
+    second: {fileID: 2800000, guid: c7cc7147f6b2175478a7cfc427fa69ca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gold
+    second: {fileID: 2800000, guid: 13942d750faa1dc488045e8f10dec17d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: single 3 block part 1
+    second: {fileID: 2800000, guid: f3657f06f14a19a46a060fc05c0097c5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: single 3 block s
+    second: {fileID: 2800000, guid: 0795abb04e56a3e43b33e8483385a45b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: terrian
+    second: {fileID: 2800000, guid: 97f95ccd324bc3143870b336adf89a25, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tip of building
+    second: {fileID: 2800000, guid: 463e24ffd81dd274e919172916493ca7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: top gold
+    second: {fileID: 2800000, guid: 20d27454dbf853d4f927ac358f52018b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: top_gold
+    second: {fileID: 2800000, guid: f3d845be5e1a8b84da2631a811005074, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: txt1
+    second: {fileID: 2800000, guid: f7a5edbb72fdcd141baf03eab487e445, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: txt2
+    second: {fileID: 2800000, guid: a18537bcf2d169b42ba7544ef56a3718, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: txt3
+    second: {fileID: 2800000, guid: a0ba6ad61fabf304db54b6b89af35708, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 0
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.0254
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 0
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  generateBackFace: 1
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f00000020000000210000002200000023000000240000002500000026000000270000002800000029000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 748ab32f5535f9fe652317d7261125a7
+  fileUnit: 0
