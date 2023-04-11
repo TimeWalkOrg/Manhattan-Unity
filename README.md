@@ -1,4 +1,4 @@
-# manhattan
+# Manhattan 1660
 ## TimeWalk VR/AR/desktop recreation of Manhattan from 1609-present
 
 Contact info@timewalk.org for more information or to contribute to this project.
