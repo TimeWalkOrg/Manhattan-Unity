@@ -23,7 +23,7 @@ public class TimeSlider : MonoBehaviour
     private Image OverlayPanel;
     private RigidbodyConstraints FPSRigidCon;
     private RigidbodyConstraints FPSRigidConOriginal;
-    private GameObject OVRPlayerController;
+    //private GameObject OVRPlayerController;
 
 
 
@@ -41,7 +41,7 @@ public class TimeSlider : MonoBehaviour
         OverlayPanel = PanelParent.GetComponentInChildren<Image>();
         FPSRigidCon = FPSBody.GetComponentInChildren<Rigidbody>().constraints;
         FPSRigidConOriginal = FPSRigidCon;
-        OVRPlayerController = GameObject.FindGameObjectWithTag("OVRPlayerController");
+        //OVRPlayerController = GameObject.FindGameObjectWithTag("OVRPlayerController");
     }
 
     // Update is called once per frame
@@ -132,7 +132,7 @@ public class TimeSlider : MonoBehaviour
         FPSBody.GetComponent<Rigidbody>().constraints = FPSRigidCon;
 
         //set the First Person Look script's paused to false
-        OVRPlayerController.GetComponent<FirstPersonLook>().paused = false;
+        //OVRPlayerController.GetComponent<FirstPersonLook>().paused = false;
     }
 
     void Pause() {
