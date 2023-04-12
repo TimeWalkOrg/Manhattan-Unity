@@ -939,19 +939,19 @@ public class OVRLint : EditorWindow
 		{
 			string assetPath = AssetDatabase.GetAssetPath(clip);
 			AudioImporter importer = AssetImporter.GetAtPath(assetPath) as AudioImporter;
-			if (importer != null)
-			{
-				if (preload != importer.preloadAudioData)
-				{
-					importer.preloadAudioData = preload;
+			//if (importer != null)
+			//{
+			//	if (preload != importer.preloadAudioData)
+			//	{
+			//		importer.preloadAudioData = preload;
 
-					AssetDatabase.ImportAsset(assetPath);
-					if (refreshImmediately)
-					{
-						AssetDatabase.Refresh();
-					}
-				}
-			}
+			//		AssetDatabase.ImportAsset(assetPath);
+			//		if (refreshImmediately)
+			//		{
+			//			AssetDatabase.Refresh();
+			//		}
+			//	}
+			//}
 		}
 	}
 

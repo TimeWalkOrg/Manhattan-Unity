@@ -17,9 +17,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/baseScene.unity
     guid: ea538afb2a57046b08378631f0b6e849
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/mainScene TimeSlider.unity
     guid: 5bfdabe5a6e77ca4e92909171b2d8ca2
+  - enabled: 1
+    path: Assets/Scenes/mainScene Multiplayer.unity
+    guid: a52f1799d006ce34abccb105bd731edf
   m_configObjects:
     AR Foundation RemoteARFoundationRemoteLoaderSettings: {fileID: 11400000, guid: e819c11fbe3bd4a8582058eec2c34d8a,
       type: 2}
