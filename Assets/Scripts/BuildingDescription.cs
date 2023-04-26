@@ -6,6 +6,7 @@ using TMPro;
 public class BuildingDescription : MonoBehaviour
 {
     private GameObject DescriptionPanel;
+    //public GameObject DescriptionPanel;
     private GameObject TimeWalkController;
     private TimeWalkMapViewer MapViewerScript;
     private TextMeshProUGUI DescriptionText;

@@ -15,6 +15,7 @@ public class TimeWalkMapViewer : MonoBehaviour
     public GameObject HelpTextPanel;
     public GameObject ControlPanel;
     public GameObject DescriptionPanel;
+    public GameObject TimeSliderOverlay;
     public GameObject GroundPlane; // not needed for AR
     //public GameObject PlayerAR; // AR player controller objects (disabled if not AR)
     public GameObject PlayerDesktop; // PC or Mac player controller objects
@@ -73,9 +74,9 @@ public class TimeWalkMapViewer : MonoBehaviour
             terrainIsVisible = true;
             mapsAreVisible = false;
             buildingsAreVisible = true;
-            paintingIsVisible = true;
+            paintingIsVisible = false;
             controlPanelIsVisible = false;
-            helpIsVisible = true;
+            helpIsVisible = false;
             groundPlaneIsVisible = true;
             //PlayerAR.gameObject.SetActive(false);
             PlayerDesktop.gameObject.SetActive(true);
@@ -87,7 +88,7 @@ public class TimeWalkMapViewer : MonoBehaviour
             terrainIsVisible = false;
             mapsAreVisible = true;
             buildingsAreVisible = false;
-            paintingIsVisible = true;
+            paintingIsVisible = false;
             controlPanelIsVisible = false;
             helpIsVisible = false;
             HUDButtons.gameObject.SetActive(true);
@@ -200,7 +201,9 @@ public class TimeWalkMapViewer : MonoBehaviour
         if (mapsAreVisible) // enable Terrain view, hide Maps
         {
             MapsObject.gameObject.SetActive(false);
+            mapTextDisplay.gameObject.SetActive(false);
             mapTextDisplay.text = "";
+            TimeSliderOverlay.gameObject.SetActive(true);
             TerrainObject.gameObject.SetActive(true);
             BuildingsObject.gameObject.SetActive(true);
             mapsAreVisible = false;
@@ -209,7 +212,9 @@ public class TimeWalkMapViewer : MonoBehaviour
         else // enable Maps view, hide Terrain
         {
             MapsObject.gameObject.SetActive(true);
+            mapTextDisplay.gameObject.SetActive(true);
             SetMapName();
+            TimeSliderOverlay.gameObject.SetActive(false);
             TerrainObject.gameObject.SetActive(false);
             BuildingsObject.gameObject.SetActive(false);
             mapsAreVisible = true;

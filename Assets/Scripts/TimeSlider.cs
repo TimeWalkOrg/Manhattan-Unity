@@ -15,7 +15,7 @@ public class TimeSlider : MonoBehaviour
     //Variables for when the game is paused
     public static bool GameIsPaused = false;
 
-    public GameObject pauseMenuUI;
+    //public GameObject pauseMenuUI;
     public Camera FPSCamera;
     public GameObject FPSBody;
 
@@ -23,7 +23,7 @@ public class TimeSlider : MonoBehaviour
     private Image OverlayPanel;
     private RigidbodyConstraints FPSRigidCon;
     private RigidbodyConstraints FPSRigidConOriginal;
-    private GameObject OVRPlayerController;
+    //private GameObject OVRPlayerController;
 
 
 
@@ -41,7 +41,7 @@ public class TimeSlider : MonoBehaviour
         OverlayPanel = PanelParent.GetComponentInChildren<Image>();
         FPSRigidCon = FPSBody.GetComponentInChildren<Rigidbody>().constraints;
         FPSRigidConOriginal = FPSRigidCon;
-        OVRPlayerController = GameObject.FindGameObjectWithTag("OVRPlayerController");
+        //OVRPlayerController = GameObject.FindGameObjectWithTag("OVRPlayerController");
     }
 
     // Update is called once per frame
@@ -85,7 +85,7 @@ public class TimeSlider : MonoBehaviour
                     Building.SetActive(false);
             }   
         }
-        TSliderText.SetText("The Current Year Is: " + TSlider.value);
+        TSliderText.SetText(TSlider.value.ToString());
     }
 
     void createList() { //Create a list of all the buildings to enable/disable when the slider changes
@@ -112,7 +112,7 @@ public class TimeSlider : MonoBehaviour
 
     void Resume() {
         //Turn off the pause menu
-        pauseMenuUI.SetActive(false);
+        // pauseMenuUI.SetActive(false);
         var tempColor = OverlayPanel.color;
         tempColor.a = 0f;
         OverlayPanel.color = tempColor;
@@ -132,12 +132,12 @@ public class TimeSlider : MonoBehaviour
         FPSBody.GetComponent<Rigidbody>().constraints = FPSRigidCon;
 
         //set the First Person Look script's paused to false
-        OVRPlayerController.GetComponent<FirstPersonLook>().paused = false;
+        //OVRPlayerController.GetComponent<FirstPersonLook>().paused = false;
     }
 
     void Pause() {
         //Turn on the pause menu
-        pauseMenuUI.SetActive(true);
+        // pauseMenuUI.SetActive(true);
         var tempColor = OverlayPanel.color;
         tempColor.a = .5f;
         OverlayPanel.color = tempColor;
@@ -157,7 +157,7 @@ public class TimeSlider : MonoBehaviour
         FPSBody.GetComponent<Rigidbody>().constraints = FPSRigidCon;
 
         //set the First Person Look script's paused to true
-        OVRPlayerController.GetComponent<FirstPersonLook>().paused = true;
+//        OVRPlayerController.GetComponent<FirstPersonLook>().paused = true;
     }
 
 }
